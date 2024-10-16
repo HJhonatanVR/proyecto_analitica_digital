@@ -1,0 +1,1001 @@
+Nombre,Edad,Género,País de Origen,Paquete Turístico,Fecha Reserva,Estado Reserva,Razón Abandono
+Adam,37,Femenino,Perú,Tour Lago Titicaca,2023-12-23 20:58:00.056364,Completada,
+Marc,48,Femenino,Perú,Turismo Cultural,2023-11-19 20:58:00.056364,Abandonada,Dudas sobre el destino
+William,64,Femenino,Argentina,Turismo Aventura,2024-02-16 20:58:00.056364,Completada,
+Carrie,26,Masculino,Brasil,Tour Lago Titicaca,2024-08-17 20:58:00.056364,Completada,
+Aaron,28,Masculino,Chile,Fiesta de la Candelaria,2023-11-27 20:58:00.056364,Completada,
+Dustin,18,Femenino,Perú,Tour Lago Titicaca,2024-08-10 20:58:00.056364,Completada,
+Jennifer,63,Femenino,Bolivia,Turismo Aventura,2024-08-31 20:58:00.056364,Completada,
+Jason,69,Masculino,Argentina,Turismo Aventura,2023-11-12 20:58:00.056364,Abandonada,Otro
+Sean,28,Masculino,Brasil,Tour Lago Titicaca,2024-01-05 20:58:00.056364,Abandonada,Paquete muy caro
+James,50,Femenino,Chile,Turismo Cultural,2024-03-01 20:58:00.056364,Abandonada,Problema con el pago
+Andrew,37,Masculino,Argentina,Turismo Aventura,2024-01-06 20:58:00.056364,Completada,
+Lisa,49,Masculino,Brasil,Fiesta de la Candelaria,2024-04-27 20:58:00.056364,Completada,
+Brandon,61,Femenino,Perú,Turismo Aventura,2024-01-03 20:58:00.056364,Completada,
+Carla,45,Femenino,Bolivia,Fiesta de la Candelaria,2024-04-28 20:58:00.056364,Abandonada,Dudas sobre el destino
+Lisa,44,Femenino,Bolivia,Turismo Cultural,2024-09-01 20:58:00.056364,Completada,
+Rachel,30,Femenino,Perú,Tour Lago Titicaca,2024-04-19 20:58:00.056364,Completada,
+Karen,30,Femenino,Bolivia,Turismo Cultural,2024-08-14 20:58:00.056364,Abandonada,Otro
+Matthew,47,Femenino,Bolivia,Turismo Cultural,2024-06-03 20:58:00.056364,Completada,
+Jamie,53,Masculino,Perú,Turismo Aventura,2024-06-04 20:58:00.056364,Completada,
+April,68,Masculino,Perú,Fiesta de la Candelaria,2024-01-16 20:58:00.056364,Abandonada,Dudas sobre el destino
+Valerie,55,Masculino,Bolivia,Turismo Cultural,2024-01-30 20:58:00.056364,Abandonada,Problema con el pago
+Jennifer,29,Femenino,Brasil,Fiesta de la Candelaria,2024-02-24 20:58:00.056364,Abandonada,Problema con el pago
+Rhonda,69,Femenino,Perú,Turismo Cultural,2024-07-04 20:58:00.056364,Completada,
+Gregory,41,Femenino,Bolivia,Fiesta de la Candelaria,2024-03-04 20:58:00.056364,Abandonada,Dudas sobre el destino
+Savannah,67,Masculino,Chile,Fiesta de la Candelaria,2023-11-06 20:58:00.056364,Completada,
+Alexis,36,Masculino,Argentina,Turismo Cultural,2024-07-23 20:58:00.056364,Completada,
+Jessica,26,Masculino,Chile,Fiesta de la Candelaria,2024-01-28 20:58:00.056364,Completada,
+Mark,62,Masculino,Argentina,Turismo Aventura,2024-06-13 20:58:00.056364,Completada,
+Amber,35,Masculino,Chile,Turismo Cultural,2024-07-17 20:58:00.056364,Completada,
+Christina,57,Femenino,Brasil,Turismo Aventura,2024-03-30 20:58:00.056364,Completada,
+Laura,57,Femenino,Chile,Fiesta de la Candelaria,2024-04-24 20:58:00.056364,Abandonada,Problema con el pago
+Charles,36,Masculino,Argentina,Turismo Aventura,2024-01-27 20:58:00.056364,Abandonada,Paquete muy caro
+Alexis,22,Masculino,Bolivia,Fiesta de la Candelaria,2024-09-01 20:58:00.056364,Completada,
+Michael,62,Masculino,Bolivia,Tour Lago Titicaca,2024-06-06 20:58:00.056364,Completada,
+Sarah,55,Masculino,Bolivia,Tour Lago Titicaca,2024-06-10 20:58:00.056364,Completada,
+Christopher,56,Femenino,Bolivia,Turismo Aventura,2024-01-26 20:58:00.056364,Completada,
+Courtney,70,Femenino,Argentina,Tour Lago Titicaca,2024-08-10 20:58:00.056364,Completada,
+Michael,40,Masculino,Perú,Fiesta de la Candelaria,2024-02-26 20:58:00.056364,Completada,
+Brooke,57,Femenino,Brasil,Fiesta de la Candelaria,2024-01-13 20:58:00.056364,Completada,
+Jennifer,27,Femenino,Argentina,Tour Lago Titicaca,2024-03-20 20:58:00.056364,Abandonada,Otro
+Mark,49,Femenino,Argentina,Fiesta de la Candelaria,2024-06-18 20:58:00.056364,Abandonada,Otro
+Thomas,54,Femenino,Argentina,Turismo Cultural,2024-04-23 20:58:00.056364,Completada,
+Joann,59,Femenino,Argentina,Turismo Aventura,2024-09-14 20:58:00.056364,Completada,
+Rebecca,44,Masculino,Chile,Fiesta de la Candelaria,2024-06-25 20:58:00.056364,Completada,
+James,52,Masculino,Chile,Turismo Aventura,2024-03-20 20:58:00.056364,Completada,
+Timothy,55,Femenino,Bolivia,Tour Lago Titicaca,2024-10-14 20:58:00.056364,Completada,
+Sylvia,59,Masculino,Argentina,Turismo Aventura,2024-05-13 20:58:00.056364,Abandonada,Otro
+Russell,21,Masculino,Perú,Turismo Aventura,2024-07-02 20:58:00.056364,Completada,
+Matthew,57,Femenino,Argentina,Turismo Aventura,2023-12-26 20:58:00.056364,Abandonada,Paquete muy caro
+Cheryl,60,Masculino,Bolivia,Turismo Aventura,2024-09-11 20:58:00.056364,Completada,
+Stephanie,30,Femenino,Perú,Fiesta de la Candelaria,2023-12-25 20:58:00.056364,Abandonada,Paquete muy caro
+Michelle,37,Femenino,Brasil,Turismo Aventura,2024-01-25 20:58:00.056364,Completada,
+Jacqueline,43,Masculino,Perú,Tour Lago Titicaca,2024-03-30 20:58:00.056364,Abandonada,Problema con el pago
+Justin,23,Masculino,Perú,Fiesta de la Candelaria,2024-08-17 20:58:00.056364,Abandonada,Otro
+Michael,57,Masculino,Bolivia,Fiesta de la Candelaria,2023-10-30 20:58:00.056364,Completada,
+Emily,32,Masculino,Argentina,Turismo Cultural,2024-04-05 20:58:00.056364,Abandonada,Otro
+Amanda,36,Femenino,Chile,Fiesta de la Candelaria,2024-05-02 20:58:00.056364,Abandonada,Dudas sobre el destino
+Charles,47,Masculino,Perú,Turismo Aventura,2024-06-28 20:58:00.056364,Completada,
+Sara,41,Masculino,Chile,Fiesta de la Candelaria,2024-10-15 20:58:00.056364,Completada,
+Lindsey,36,Masculino,Perú,Turismo Aventura,2024-03-25 20:58:00.056364,Abandonada,Dudas sobre el destino
+Leah,28,Femenino,Perú,Tour Lago Titicaca,2024-02-29 20:58:00.056364,Completada,
+Mary,24,Femenino,Bolivia,Turismo Cultural,2023-11-30 20:58:00.056364,Completada,
+Lisa,59,Masculino,Perú,Turismo Aventura,2024-02-16 20:58:00.056364,Completada,
+Kevin,52,Masculino,Argentina,Tour Lago Titicaca,2024-02-02 20:58:00.064437,Completada,
+Daniel,65,Masculino,Brasil,Turismo Cultural,2024-07-18 20:58:00.064673,Completada,
+Amy,68,Masculino,Brasil,Tour Lago Titicaca,2024-09-03 20:58:00.064673,Abandonada,Otro
+Katherine,33,Masculino,Argentina,Tour Lago Titicaca,2024-05-17 20:58:00.064673,Abandonada,Problema con el pago
+Darrell,50,Masculino,Argentina,Turismo Aventura,2024-07-30 20:58:00.064673,Abandonada,Dudas sobre el destino
+Kevin,61,Masculino,Perú,Fiesta de la Candelaria,2024-03-14 20:58:00.064673,Completada,
+Jeffery,69,Masculino,Perú,Tour Lago Titicaca,2024-06-20 20:58:00.064673,Abandonada,Paquete muy caro
+Morgan,63,Femenino,Perú,Tour Lago Titicaca,2024-02-27 20:58:00.065671,Completada,
+Mariah,46,Femenino,Chile,Turismo Aventura,2024-02-11 20:58:00.065671,Completada,
+Alicia,34,Masculino,Perú,Fiesta de la Candelaria,2024-08-29 20:58:00.065671,Completada,
+Robin,27,Masculino,Bolivia,Turismo Cultural,2024-06-11 20:58:00.065671,Completada,
+James,33,Masculino,Argentina,Fiesta de la Candelaria,2024-10-12 20:58:00.065671,Abandonada,Otro
+Robert,27,Femenino,Brasil,Tour Lago Titicaca,2024-02-24 20:58:00.065671,Abandonada,Paquete muy caro
+Arthur,69,Masculino,Argentina,Fiesta de la Candelaria,2023-12-19 20:58:00.066671,Completada,
+George,70,Femenino,Brasil,Fiesta de la Candelaria,2023-11-27 20:58:00.066671,Abandonada,Problema con el pago
+Nicole,56,Masculino,Brasil,Turismo Cultural,2024-06-11 20:58:00.066671,Completada,
+Anne,35,Masculino,Perú,Tour Lago Titicaca,2024-09-04 20:58:00.066671,Abandonada,Paquete muy caro
+Ryan,24,Femenino,Chile,Fiesta de la Candelaria,2024-01-01 20:58:00.066671,Completada,
+Robert,67,Femenino,Brasil,Turismo Cultural,2024-06-26 20:58:00.066671,Completada,
+Benjamin,41,Femenino,Bolivia,Tour Lago Titicaca,2023-11-09 20:58:00.067675,Completada,
+Lawrence,65,Masculino,Argentina,Turismo Aventura,2023-10-29 20:58:00.067675,Abandonada,Dudas sobre el destino
+Joseph,38,Masculino,Chile,Fiesta de la Candelaria,2024-04-27 20:58:00.067675,Completada,
+Russell,26,Femenino,Brasil,Turismo Cultural,2024-10-06 20:58:00.067675,Completada,
+Alexandria,32,Masculino,Bolivia,Fiesta de la Candelaria,2024-01-01 20:58:00.067675,Abandonada,Problema con el pago
+Emily,41,Femenino,Perú,Turismo Cultural,2024-07-24 20:58:00.067675,Completada,
+Anthony,30,Femenino,Chile,Turismo Aventura,2024-02-09 20:58:00.067675,Abandonada,Otro
+Mikayla,47,Masculino,Perú,Turismo Aventura,2024-10-14 20:58:00.067675,Completada,
+Misty,24,Masculino,Perú,Tour Lago Titicaca,2024-04-22 20:58:00.067675,Completada,
+Nicole,62,Femenino,Brasil,Tour Lago Titicaca,2024-10-15 20:58:00.067675,Completada,
+Brett,62,Femenino,Chile,Turismo Cultural,2024-06-19 20:58:00.067675,Completada,
+Marco,23,Femenino,Brasil,Turismo Cultural,2023-12-27 20:58:00.067675,Completada,
+Mary,61,Masculino,Perú,Tour Lago Titicaca,2023-10-25 20:58:00.067675,Abandonada,Otro
+Megan,35,Masculino,Argentina,Turismo Aventura,2024-03-03 20:58:00.067675,Abandonada,Dudas sobre el destino
+Stephanie,67,Femenino,Perú,Turismo Aventura,2023-12-24 20:58:00.067675,Completada,
+Lisa,66,Femenino,Bolivia,Turismo Aventura,2024-10-01 20:58:00.067675,Abandonada,Dudas sobre el destino
+Rodney,31,Masculino,Chile,Tour Lago Titicaca,2024-07-22 20:58:00.067675,Completada,
+Regina,52,Masculino,Perú,Fiesta de la Candelaria,2023-10-17 20:58:00.067675,Completada,
+Robert,66,Masculino,Chile,Fiesta de la Candelaria,2024-09-15 20:58:00.067675,Completada,
+Samantha,69,Masculino,Brasil,Tour Lago Titicaca,2024-09-17 20:58:00.067675,Abandonada,Paquete muy caro
+Theresa,48,Masculino,Chile,Tour Lago Titicaca,2024-08-21 20:58:00.067675,Completada,
+Alan,21,Femenino,Argentina,Turismo Cultural,2024-04-12 20:58:00.067675,Completada,
+Jennifer,60,Masculino,Argentina,Fiesta de la Candelaria,2024-01-28 20:58:00.067675,Completada,
+Amber,46,Masculino,Bolivia,Tour Lago Titicaca,2024-05-05 20:58:00.067675,Abandonada,Dudas sobre el destino
+Zachary,55,Femenino,Brasil,Turismo Cultural,2024-10-01 20:58:00.067675,Completada,
+Vincent,31,Masculino,Chile,Fiesta de la Candelaria,2024-07-13 20:58:00.067675,Abandonada,Otro
+Taylor,33,Femenino,Perú,Turismo Cultural,2024-04-17 20:58:00.067675,Abandonada,Dudas sobre el destino
+Travis,38,Femenino,Perú,Fiesta de la Candelaria,2023-12-06 20:58:00.067675,Completada,
+Danielle,46,Masculino,Brasil,Tour Lago Titicaca,2024-07-29 20:58:00.067675,Completada,
+Justin,50,Masculino,Argentina,Fiesta de la Candelaria,2024-02-04 20:58:00.067675,Abandonada,Dudas sobre el destino
+Makayla,43,Masculino,Perú,Fiesta de la Candelaria,2024-08-26 20:58:00.067675,Abandonada,Dudas sobre el destino
+Christopher,19,Masculino,Brasil,Turismo Aventura,2024-02-04 20:58:00.067675,Abandonada,Dudas sobre el destino
+Kelly,54,Masculino,Chile,Fiesta de la Candelaria,2024-05-29 20:58:00.067675,Completada,
+Michael,66,Masculino,Brasil,Fiesta de la Candelaria,2023-11-13 20:58:00.067675,Completada,
+Gary,43,Masculino,Brasil,Turismo Cultural,2023-11-09 20:58:00.067675,Abandonada,Otro
+Michael,52,Femenino,Perú,Turismo Cultural,2024-03-24 20:58:00.067675,Completada,
+Donna,19,Masculino,Bolivia,Turismo Cultural,2024-06-20 20:58:00.067675,Completada,
+Rachel,22,Femenino,Brasil,Fiesta de la Candelaria,2024-02-20 20:58:00.067675,Completada,
+Joseph,62,Masculino,Chile,Turismo Aventura,2023-12-14 20:58:00.067675,Abandonada,Otro
+Mark,30,Femenino,Chile,Turismo Cultural,2023-11-18 20:58:00.067675,Completada,
+Christopher,36,Femenino,Brasil,Turismo Aventura,2024-02-29 20:58:00.067675,Completada,
+Alicia,28,Femenino,Chile,Fiesta de la Candelaria,2024-08-04 20:58:00.067675,Abandonada,Paquete muy caro
+Karen,45,Femenino,Chile,Tour Lago Titicaca,2024-04-06 20:58:00.067675,Completada,
+Cynthia,20,Masculino,Bolivia,Turismo Aventura,2024-05-01 20:58:00.067675,Abandonada,Dudas sobre el destino
+Amanda,61,Femenino,Perú,Tour Lago Titicaca,2024-06-20 20:58:00.067675,Completada,
+Elizabeth,26,Femenino,Bolivia,Turismo Aventura,2024-05-01 20:58:00.067675,Completada,
+Vanessa,21,Femenino,Chile,Fiesta de la Candelaria,2023-10-27 20:58:00.067675,Completada,
+Christy,53,Femenino,Brasil,Tour Lago Titicaca,2024-03-25 20:58:00.067675,Completada,
+Vanessa,37,Femenino,Chile,Tour Lago Titicaca,2023-11-30 20:58:00.067675,Completada,
+Joshua,43,Femenino,Brasil,Tour Lago Titicaca,2024-04-26 20:58:00.067675,Abandonada,Problema con el pago
+Cassandra,40,Masculino,Argentina,Fiesta de la Candelaria,2024-07-23 20:58:00.067675,Abandonada,Otro
+Mary,32,Masculino,Perú,Tour Lago Titicaca,2024-06-26 20:58:00.067675,Completada,
+Sarah,57,Masculino,Chile,Turismo Aventura,2024-06-30 20:58:00.067675,Completada,
+Laura,28,Masculino,Bolivia,Tour Lago Titicaca,2024-04-15 20:58:00.067675,Completada,
+Vanessa,40,Masculino,Brasil,Tour Lago Titicaca,2024-05-05 20:58:00.067675,Completada,
+Ashley,30,Femenino,Bolivia,Turismo Aventura,2024-05-21 20:58:00.067675,Completada,
+Carol,32,Femenino,Bolivia,Turismo Aventura,2024-06-06 20:58:00.067675,Completada,
+Kendra,19,Masculino,Bolivia,Turismo Cultural,2024-05-24 20:58:00.067675,Abandonada,Otro
+Eric,62,Masculino,Chile,Tour Lago Titicaca,2024-02-01 20:58:00.067675,Completada,
+Linda,57,Masculino,Argentina,Fiesta de la Candelaria,2023-11-17 20:58:00.067675,Abandonada,Paquete muy caro
+Adam,55,Masculino,Bolivia,Fiesta de la Candelaria,2023-12-12 20:58:00.067675,Completada,
+Seth,61,Masculino,Perú,Tour Lago Titicaca,2024-05-11 20:58:00.067675,Completada,
+Eric,52,Masculino,Perú,Fiesta de la Candelaria,2024-09-11 20:58:00.067675,Completada,
+Maria,23,Masculino,Brasil,Tour Lago Titicaca,2024-09-12 20:58:00.067675,Abandonada,Otro
+Donna,27,Femenino,Bolivia,Fiesta de la Candelaria,2024-07-14 20:58:00.067675,Completada,
+Miguel,33,Femenino,Argentina,Turismo Aventura,2024-03-16 20:58:00.067675,Abandonada,Dudas sobre el destino
+Thomas,33,Masculino,Perú,Tour Lago Titicaca,2023-11-04 20:58:00.067675,Completada,
+Amanda,60,Femenino,Bolivia,Fiesta de la Candelaria,2024-07-15 20:58:00.067675,Abandonada,Otro
+Susan,43,Masculino,Perú,Fiesta de la Candelaria,2024-01-05 20:58:00.067675,Completada,
+Damon,63,Masculino,Argentina,Turismo Cultural,2024-08-12 20:58:00.067675,Abandonada,Dudas sobre el destino
+Michael,51,Masculino,Bolivia,Fiesta de la Candelaria,2024-06-12 20:58:00.067675,Completada,
+Julie,64,Femenino,Chile,Fiesta de la Candelaria,2024-05-02 20:58:00.067675,Completada,
+Alexandra,67,Femenino,Brasil,Turismo Aventura,2024-01-21 20:58:00.067675,Abandonada,Paquete muy caro
+Betty,60,Masculino,Perú,Turismo Cultural,2024-05-25 20:58:00.076070,Completada,
+Allen,33,Femenino,Brasil,Tour Lago Titicaca,2023-11-25 20:58:00.076284,Completada,
+Jose,37,Masculino,Argentina,Turismo Aventura,2024-08-16 20:58:00.076284,Completada,
+Diana,58,Masculino,Chile,Turismo Cultural,2024-08-09 20:58:00.076284,Completada,
+Willie,64,Femenino,Brasil,Turismo Aventura,2024-02-07 20:58:00.076284,Completada,
+George,26,Femenino,Brasil,Fiesta de la Candelaria,2024-02-15 20:58:00.076284,Completada,
+Jackie,18,Femenino,Perú,Turismo Cultural,2024-08-19 20:58:00.076284,Abandonada,Otro
+Cameron,64,Masculino,Perú,Turismo Cultural,2024-01-02 20:58:00.076284,Completada,
+Michael,44,Masculino,Argentina,Fiesta de la Candelaria,2023-11-06 20:58:00.076284,Completada,
+Wendy,22,Femenino,Bolivia,Turismo Aventura,2024-07-13 20:58:00.077268,Abandonada,Paquete muy caro
+Sharon,44,Masculino,Brasil,Turismo Cultural,2024-07-23 20:58:00.077268,Abandonada,Dudas sobre el destino
+William,27,Masculino,Bolivia,Fiesta de la Candelaria,2023-11-28 20:58:00.077268,Completada,
+Walter,52,Femenino,Bolivia,Turismo Aventura,2024-06-22 20:58:00.077268,Abandonada,Dudas sobre el destino
+Joe,51,Masculino,Chile,Tour Lago Titicaca,2024-01-13 20:58:00.077268,Abandonada,Dudas sobre el destino
+Jenna,62,Femenino,Argentina,Turismo Cultural,2023-12-01 20:58:00.077268,Abandonada,Otro
+Laura,19,Femenino,Perú,Turismo Aventura,2024-07-10 20:58:00.077268,Abandonada,Problema con el pago
+Stephanie,34,Femenino,Perú,Fiesta de la Candelaria,2024-08-13 20:58:00.077268,Completada,
+Christopher,60,Femenino,Perú,Turismo Cultural,2024-05-21 20:58:00.077268,Completada,
+Lindsay,64,Femenino,Brasil,Fiesta de la Candelaria,2023-12-19 20:58:00.077268,Abandonada,Dudas sobre el destino
+Jason,23,Femenino,Perú,Turismo Cultural,2024-04-15 20:58:00.077268,Abandonada,Problema con el pago
+Deborah,20,Masculino,Brasil,Turismo Aventura,2024-04-24 20:58:00.077268,Abandonada,Problema con el pago
+Andrea,34,Femenino,Brasil,Turismo Cultural,2024-01-02 20:58:00.077268,Abandonada,Dudas sobre el destino
+Alicia,37,Masculino,Chile,Tour Lago Titicaca,2024-03-25 20:58:00.077268,Completada,
+Juan,38,Masculino,Argentina,Tour Lago Titicaca,2023-10-26 20:58:00.077268,Completada,
+Joseph,59,Femenino,Argentina,Tour Lago Titicaca,2023-11-18 20:58:00.077268,Completada,
+Mason,67,Masculino,Argentina,Turismo Cultural,2024-06-14 20:58:00.077268,Completada,
+Max,45,Masculino,Argentina,Tour Lago Titicaca,2024-07-10 20:58:00.077268,Completada,
+Tamara,50,Femenino,Argentina,Turismo Aventura,2024-03-28 20:58:00.077268,Completada,
+Rachel,66,Masculino,Argentina,Tour Lago Titicaca,2023-12-05 20:58:00.077268,Completada,
+Mason,29,Masculino,Brasil,Fiesta de la Candelaria,2023-11-21 20:58:00.077268,Completada,
+Dennis,51,Femenino,Chile,Turismo Cultural,2024-02-22 20:58:00.077268,Completada,
+Edward,58,Masculino,Chile,Tour Lago Titicaca,2024-05-10 20:58:00.077268,Completada,
+Aaron,35,Femenino,Brasil,Turismo Cultural,2024-07-19 20:58:00.077268,Abandonada,Paquete muy caro
+Kevin,42,Masculino,Perú,Turismo Cultural,2024-07-22 20:58:00.077268,Completada,
+Morgan,57,Masculino,Chile,Fiesta de la Candelaria,2024-09-12 20:58:00.077268,Completada,
+Caitlin,47,Masculino,Perú,Turismo Cultural,2024-06-13 20:58:00.077268,Completada,
+Emily,55,Masculino,Perú,Turismo Aventura,2024-04-02 20:58:00.077268,Completada,
+John,58,Masculino,Argentina,Turismo Aventura,2024-05-07 20:58:00.080536,Completada,
+Robert,28,Femenino,Brasil,Turismo Aventura,2024-01-14 20:58:00.080536,Completada,
+Arthur,23,Masculino,Bolivia,Turismo Aventura,2024-05-23 20:58:00.080536,Completada,
+Darrell,45,Femenino,Bolivia,Tour Lago Titicaca,2024-04-14 20:58:00.080536,Abandonada,Paquete muy caro
+Cheryl,45,Femenino,Argentina,Fiesta de la Candelaria,2024-03-15 20:58:00.080536,Completada,
+Stacey,24,Masculino,Perú,Fiesta de la Candelaria,2024-07-28 20:58:00.080536,Completada,
+Daniel,26,Femenino,Brasil,Turismo Cultural,2024-03-19 20:58:00.080536,Completada,
+William,36,Masculino,Chile,Tour Lago Titicaca,2024-02-25 20:58:00.080536,Abandonada,Paquete muy caro
+Ann,42,Femenino,Argentina,Fiesta de la Candelaria,2024-04-19 20:58:00.081538,Completada,
+Jonathan,55,Masculino,Argentina,Tour Lago Titicaca,2023-11-28 20:58:00.081538,Completada,
+Christopher,20,Femenino,Chile,Turismo Aventura,2024-04-21 20:58:00.081538,Completada,
+Erica,48,Femenino,Bolivia,Turismo Aventura,2024-08-05 20:58:00.081538,Completada,
+James,55,Femenino,Perú,Turismo Cultural,2024-01-18 20:58:00.081538,Completada,
+Darren,58,Masculino,Argentina,Turismo Cultural,2023-12-18 20:58:00.081538,Completada,
+Dennis,54,Femenino,Chile,Fiesta de la Candelaria,2024-04-02 20:58:00.081538,Completada,
+Linda,40,Femenino,Perú,Fiesta de la Candelaria,2024-03-07 20:58:00.081538,Completada,
+Christopher,70,Masculino,Argentina,Fiesta de la Candelaria,2024-09-01 20:58:00.082537,Abandonada,Problema con el pago
+Joshua,65,Femenino,Chile,Fiesta de la Candelaria,2024-05-23 20:58:00.082537,Completada,
+Anne,63,Femenino,Brasil,Turismo Aventura,2024-08-15 20:58:00.082537,Completada,
+Misty,21,Femenino,Chile,Turismo Aventura,2024-10-07 20:58:00.082537,Completada,
+Mary,39,Masculino,Perú,Tour Lago Titicaca,2024-06-29 20:58:00.082537,Completada,
+Rhonda,60,Femenino,Perú,Turismo Aventura,2024-03-12 20:58:00.082537,Abandonada,Problema con el pago
+Edward,60,Femenino,Argentina,Fiesta de la Candelaria,2024-01-04 20:58:00.082537,Completada,
+Amanda,45,Femenino,Bolivia,Turismo Aventura,2024-09-02 20:58:00.082537,Abandonada,Problema con el pago
+Kathryn,64,Masculino,Argentina,Turismo Cultural,2024-06-30 20:58:00.082537,Abandonada,Paquete muy caro
+Kevin,43,Masculino,Bolivia,Turismo Aventura,2024-08-04 20:58:00.082537,Completada,
+Mary,23,Masculino,Brasil,Tour Lago Titicaca,2024-04-13 20:58:00.082537,Completada,
+Elizabeth,19,Femenino,Bolivia,Turismo Cultural,2024-03-06 20:58:00.082537,Completada,
+Charles,60,Femenino,Brasil,Tour Lago Titicaca,2024-03-21 20:58:00.082537,Completada,
+Barbara,46,Femenino,Chile,Tour Lago Titicaca,2024-05-29 20:58:00.082537,Abandonada,Otro
+Brandon,70,Masculino,Perú,Turismo Aventura,2023-12-11 20:58:00.082537,Completada,
+Jonathon,31,Masculino,Perú,Fiesta de la Candelaria,2024-04-09 20:58:00.082537,Completada,
+Wyatt,69,Femenino,Brasil,Tour Lago Titicaca,2024-09-21 20:58:00.082537,Completada,
+Alexandra,32,Masculino,Argentina,Tour Lago Titicaca,2024-10-08 20:58:00.082537,Completada,
+Matthew,63,Femenino,Perú,Fiesta de la Candelaria,2024-02-10 20:58:00.082537,Completada,
+Andrew,29,Masculino,Bolivia,Fiesta de la Candelaria,2024-05-02 20:58:00.082537,Completada,
+Jessica,60,Masculino,Chile,Tour Lago Titicaca,2024-03-20 20:58:00.082537,Abandonada,Dudas sobre el destino
+Alicia,46,Femenino,Bolivia,Turismo Cultural,2024-07-20 20:58:00.082537,Completada,
+Theresa,40,Femenino,Perú,Tour Lago Titicaca,2024-06-17 20:58:00.082537,Completada,
+Christina,52,Masculino,Chile,Fiesta de la Candelaria,2024-06-25 20:58:00.082537,Completada,
+Carrie,27,Femenino,Argentina,Turismo Aventura,2024-04-14 20:58:00.082537,Completada,
+Dawn,25,Femenino,Argentina,Turismo Cultural,2024-05-27 20:58:00.082537,Abandonada,Otro
+Hannah,50,Femenino,Bolivia,Fiesta de la Candelaria,2023-11-27 20:58:00.082537,Abandonada,Problema con el pago
+Cassidy,70,Masculino,Bolivia,Turismo Cultural,2024-01-04 20:58:00.082537,Abandonada,Problema con el pago
+Michelle,68,Masculino,Perú,Fiesta de la Candelaria,2024-04-25 20:58:00.082537,Abandonada,Dudas sobre el destino
+Andrew,23,Femenino,Chile,Turismo Aventura,2024-08-08 20:58:00.082537,Abandonada,Problema con el pago
+Sean,69,Femenino,Chile,Fiesta de la Candelaria,2023-12-14 20:58:00.082537,Abandonada,Dudas sobre el destino
+Larry,65,Femenino,Brasil,Fiesta de la Candelaria,2024-09-09 20:58:00.082537,Abandonada,Problema con el pago
+Christopher,30,Femenino,Brasil,Turismo Aventura,2024-01-16 20:58:00.082537,Completada,
+Rhonda,42,Femenino,Chile,Tour Lago Titicaca,2024-10-08 20:58:00.082537,Completada,
+Katherine,48,Masculino,Brasil,Turismo Aventura,2024-02-17 20:58:00.082537,Completada,
+Brandon,69,Femenino,Brasil,Turismo Cultural,2024-05-24 20:58:00.082537,Abandonada,Paquete muy caro
+Kathleen,21,Masculino,Brasil,Turismo Aventura,2023-10-30 20:58:00.082537,Abandonada,Otro
+Bradley,35,Masculino,Brasil,Tour Lago Titicaca,2023-12-14 20:58:00.082537,Abandonada,Problema con el pago
+Taylor,41,Masculino,Chile,Fiesta de la Candelaria,2024-01-12 20:58:00.082537,Completada,
+Bradley,61,Masculino,Argentina,Tour Lago Titicaca,2024-03-10 20:58:00.082537,Completada,
+Bryan,67,Masculino,Argentina,Fiesta de la Candelaria,2024-05-09 20:58:00.082537,Completada,
+Paul,44,Masculino,Chile,Turismo Cultural,2024-06-14 20:58:00.082537,Completada,
+Jessica,68,Masculino,Argentina,Tour Lago Titicaca,2024-05-02 20:58:00.082537,Abandonada,Paquete muy caro
+Kurt,51,Femenino,Bolivia,Turismo Cultural,2024-09-17 20:58:00.082537,Completada,
+Matthew,66,Masculino,Perú,Turismo Cultural,2024-08-11 20:58:00.082537,Completada,
+Jasmine,28,Femenino,Argentina,Tour Lago Titicaca,2024-07-25 20:58:00.082537,Completada,
+Lucas,49,Femenino,Perú,Turismo Cultural,2024-01-13 20:58:00.082537,Completada,
+Sherri,62,Masculino,Bolivia,Tour Lago Titicaca,2024-01-17 20:58:00.082537,Completada,
+Kyle,32,Femenino,Bolivia,Fiesta de la Candelaria,2024-02-01 20:58:00.082537,Completada,
+Nicholas,55,Femenino,Chile,Turismo Cultural,2024-03-24 20:58:00.082537,Abandonada,Problema con el pago
+Carrie,44,Masculino,Brasil,Fiesta de la Candelaria,2024-01-10 20:58:00.082537,Completada,
+Felicia,25,Masculino,Argentina,Turismo Cultural,2024-05-30 20:58:00.082537,Completada,
+Victor,49,Femenino,Perú,Turismo Aventura,2024-04-27 20:58:00.082537,Abandonada,Paquete muy caro
+Eric,69,Femenino,Bolivia,Turismo Aventura,2024-10-07 20:58:00.082537,Abandonada,Problema con el pago
+Brenda,68,Masculino,Argentina,Turismo Aventura,2024-03-07 20:58:00.082537,Completada,
+Brent,30,Femenino,Chile,Fiesta de la Candelaria,2024-04-04 20:58:00.082537,Abandonada,Dudas sobre el destino
+Raymond,49,Femenino,Chile,Turismo Cultural,2023-12-31 20:58:00.082537,Completada,
+John,45,Masculino,Bolivia,Turismo Aventura,2024-03-24 20:58:00.082537,Completada,
+Kathryn,20,Femenino,Argentina,Turismo Aventura,2024-02-06 20:58:00.082537,Abandonada,Problema con el pago
+Mary,34,Masculino,Brasil,Turismo Aventura,2024-02-19 20:58:00.082537,Completada,
+Heather,19,Femenino,Chile,Turismo Cultural,2024-05-06 20:58:00.082537,Abandonada,Dudas sobre el destino
+Jeffery,20,Masculino,Chile,Turismo Aventura,2024-08-02 20:58:00.082537,Abandonada,Problema con el pago
+Ashley,57,Masculino,Perú,Turismo Cultural,2024-05-10 20:58:00.082537,Abandonada,Otro
+Daisy,22,Masculino,Chile,Turismo Cultural,2024-02-07 20:58:00.082537,Completada,
+Jessica,47,Masculino,Perú,Fiesta de la Candelaria,2024-09-26 20:58:00.082537,Completada,
+Karen,19,Masculino,Bolivia,Turismo Cultural,2024-01-22 20:58:00.082537,Completada,
+Luis,23,Masculino,Brasil,Turismo Aventura,2024-03-22 20:58:00.082537,Completada,
+Joseph,36,Masculino,Bolivia,Turismo Cultural,2024-03-03 20:58:00.082537,Abandonada,Problema con el pago
+Carla,49,Femenino,Perú,Tour Lago Titicaca,2024-06-05 20:58:00.082537,Completada,
+Andrew,68,Masculino,Bolivia,Tour Lago Titicaca,2024-06-07 20:58:00.082537,Abandonada,Problema con el pago
+Jillian,26,Masculino,Perú,Turismo Aventura,2024-05-31 20:58:00.082537,Abandonada,Dudas sobre el destino
+Stephen,37,Femenino,Brasil,Turismo Aventura,2023-12-03 20:58:00.082537,Abandonada,Paquete muy caro
+Christopher,52,Femenino,Chile,Tour Lago Titicaca,2023-11-28 20:58:00.082537,Completada,
+Crystal,68,Femenino,Perú,Turismo Cultural,2024-09-30 20:58:00.082537,Completada,
+Corey,38,Femenino,Perú,Tour Lago Titicaca,2024-04-19 20:58:00.082537,Completada,
+Marie,69,Femenino,Perú,Fiesta de la Candelaria,2023-10-18 20:58:00.082537,Completada,
+Kelsey,58,Femenino,Bolivia,Turismo Aventura,2024-09-08 20:58:00.082537,Completada,
+Kenneth,21,Masculino,Bolivia,Fiesta de la Candelaria,2024-04-15 20:58:00.082537,Completada,
+William,29,Masculino,Argentina,Fiesta de la Candelaria,2024-07-26 20:58:00.082537,Completada,
+Penny,30,Masculino,Bolivia,Turismo Aventura,2024-02-19 20:58:00.082537,Abandonada,Problema con el pago
+Kelly,60,Femenino,Perú,Turismo Cultural,2024-06-08 20:58:00.090599,Completada,
+Pamela,23,Masculino,Brasil,Tour Lago Titicaca,2024-03-09 20:58:00.090785,Completada,
+Raymond,28,Femenino,Bolivia,Turismo Aventura,2024-01-13 20:58:00.090785,Abandonada,Problema con el pago
+Jonathan,23,Masculino,Argentina,Tour Lago Titicaca,2023-11-11 20:58:00.090785,Completada,
+Joseph,48,Masculino,Brasil,Fiesta de la Candelaria,2024-03-24 20:58:00.090785,Abandonada,Otro
+William,47,Femenino,Bolivia,Fiesta de la Candelaria,2024-10-14 20:58:00.091787,Completada,
+Susan,51,Masculino,Perú,Fiesta de la Candelaria,2024-06-04 20:58:00.091787,Completada,
+Beverly,70,Femenino,Perú,Turismo Aventura,2024-01-12 20:58:00.091787,Completada,
+Eric,50,Femenino,Argentina,Turismo Cultural,2024-07-20 20:58:00.091787,Completada,
+Zachary,42,Masculino,Brasil,Turismo Aventura,2024-04-19 20:58:00.092788,Completada,
+Gabrielle,53,Femenino,Argentina,Tour Lago Titicaca,2024-06-15 20:58:00.092788,Abandonada,Paquete muy caro
+Maria,38,Femenino,Bolivia,Fiesta de la Candelaria,2024-05-17 20:58:00.092788,Abandonada,Otro
+Kristin,43,Femenino,Perú,Fiesta de la Candelaria,2024-06-17 20:58:00.092788,Abandonada,Paquete muy caro
+Adam,19,Femenino,Bolivia,Tour Lago Titicaca,2024-05-12 20:58:00.092788,Abandonada,Problema con el pago
+Ryan,38,Femenino,Chile,Tour Lago Titicaca,2023-12-01 20:58:00.092788,Completada,
+Michael,56,Masculino,Chile,Fiesta de la Candelaria,2024-10-07 20:58:00.092788,Completada,
+Kenneth,18,Masculino,Perú,Tour Lago Titicaca,2023-12-17 20:58:00.092788,Completada,
+Tammy,28,Masculino,Bolivia,Tour Lago Titicaca,2024-03-03 20:58:00.092788,Abandonada,Otro
+Alison,33,Masculino,Chile,Turismo Cultural,2024-06-15 20:58:00.093786,Abandonada,Dudas sobre el destino
+Nicole,23,Masculino,Perú,Tour Lago Titicaca,2024-05-08 20:58:00.093786,Abandonada,Problema con el pago
+Lisa,50,Femenino,Chile,Tour Lago Titicaca,2024-08-23 20:58:00.093786,Completada,
+Mark,55,Masculino,Bolivia,Fiesta de la Candelaria,2023-12-25 20:58:00.093786,Completada,
+Megan,42,Femenino,Bolivia,Tour Lago Titicaca,2024-02-03 20:58:00.093786,Completada,
+Jeremy,41,Masculino,Bolivia,Turismo Aventura,2024-08-19 20:58:00.093786,Completada,
+Miranda,28,Masculino,Chile,Turismo Cultural,2024-05-20 20:58:00.093786,Completada,
+Sandra,69,Masculino,Chile,Fiesta de la Candelaria,2023-11-07 20:58:00.093786,Abandonada,Problema con el pago
+Christine,19,Masculino,Argentina,Turismo Aventura,2024-03-29 20:58:00.093786,Completada,
+Steven,32,Femenino,Brasil,Tour Lago Titicaca,2024-03-06 20:58:00.093786,Abandonada,Paquete muy caro
+Ryan,54,Femenino,Perú,Fiesta de la Candelaria,2024-05-11 20:58:00.093786,Completada,
+Jacob,30,Masculino,Argentina,Tour Lago Titicaca,2023-11-04 20:58:00.093786,Abandonada,Otro
+Michael,35,Femenino,Chile,Tour Lago Titicaca,2024-03-02 20:58:00.093786,Abandonada,Paquete muy caro
+Laurie,61,Masculino,Brasil,Turismo Cultural,2024-06-25 20:58:00.093786,Completada,
+Alicia,50,Masculino,Brasil,Tour Lago Titicaca,2024-03-25 20:58:00.093786,Completada,
+Sarah,25,Masculino,Brasil,Fiesta de la Candelaria,2024-03-11 20:58:00.093786,Completada,
+Denise,51,Masculino,Chile,Tour Lago Titicaca,2024-09-22 20:58:00.093786,Abandonada,Otro
+Russell,55,Masculino,Argentina,Turismo Cultural,2024-09-04 20:58:00.093786,Completada,
+Micheal,19,Masculino,Perú,Turismo Cultural,2024-05-06 20:58:00.093786,Completada,
+Patrick,68,Masculino,Perú,Fiesta de la Candelaria,2023-12-11 20:58:00.093786,Completada,
+Zachary,24,Masculino,Chile,Turismo Cultural,2024-09-13 20:58:00.093786,Completada,
+Adam,68,Masculino,Perú,Tour Lago Titicaca,2023-10-30 20:58:00.093786,Abandonada,Problema con el pago
+Clayton,24,Masculino,Brasil,Turismo Aventura,2024-01-04 20:58:00.093786,Completada,
+Kim,26,Femenino,Perú,Turismo Aventura,2024-08-03 20:58:00.093786,Completada,
+Devin,65,Femenino,Perú,Turismo Aventura,2023-12-18 20:58:00.093786,Abandonada,Problema con el pago
+Jessica,22,Femenino,Argentina,Fiesta de la Candelaria,2024-06-23 20:58:00.093786,Abandonada,Otro
+Samantha,37,Femenino,Bolivia,Tour Lago Titicaca,2024-10-06 20:58:00.093786,Completada,
+Mark,45,Masculino,Perú,Turismo Aventura,2024-07-16 20:58:00.093786,Completada,
+Hannah,21,Femenino,Bolivia,Turismo Cultural,2024-03-28 20:58:00.097180,Completada,
+Charlene,22,Masculino,Bolivia,Turismo Aventura,2024-06-19 20:58:00.097180,Completada,
+Mark,67,Masculino,Brasil,Turismo Cultural,2024-06-05 20:58:00.097180,Completada,
+Sylvia,48,Masculino,Brasil,Tour Lago Titicaca,2023-10-26 20:58:00.097180,Completada,
+Heather,50,Masculino,Perú,Turismo Cultural,2024-05-05 20:58:00.097180,Completada,
+Nathaniel,50,Femenino,Chile,Turismo Cultural,2024-04-10 20:58:00.097180,Abandonada,Problema con el pago
+Michael,62,Masculino,Bolivia,Fiesta de la Candelaria,2023-11-26 20:58:00.097180,Completada,
+Monique,48,Femenino,Chile,Turismo Cultural,2023-12-20 20:58:00.097180,Completada,
+Erica,64,Masculino,Chile,Turismo Cultural,2024-05-25 20:58:00.098181,Completada,
+William,44,Femenino,Argentina,Tour Lago Titicaca,2024-04-03 20:58:00.098181,Completada,
+Walter,56,Femenino,Bolivia,Turismo Aventura,2024-01-07 20:58:00.098181,Completada,
+Daniel,61,Masculino,Argentina,Turismo Cultural,2024-01-29 20:58:00.098181,Completada,
+Jason,45,Femenino,Brasil,Tour Lago Titicaca,2023-12-31 20:58:00.098181,Abandonada,Problema con el pago
+Gary,19,Masculino,Brasil,Fiesta de la Candelaria,2024-09-20 20:58:00.098181,Abandonada,Dudas sobre el destino
+Gabrielle,68,Masculino,Perú,Fiesta de la Candelaria,2024-07-29 20:58:00.098181,Completada,
+Andrew,35,Masculino,Perú,Tour Lago Titicaca,2024-02-07 20:58:00.099181,Completada,
+Melvin,36,Masculino,Chile,Tour Lago Titicaca,2024-08-28 20:58:00.099181,Completada,
+Angela,25,Masculino,Perú,Turismo Aventura,2023-11-22 20:58:00.099181,Completada,
+Philip,26,Masculino,Chile,Fiesta de la Candelaria,2024-07-11 20:58:00.099181,Completada,
+Beth,58,Femenino,Bolivia,Turismo Aventura,2024-05-10 20:58:00.099181,Completada,
+Jason,65,Femenino,Chile,Fiesta de la Candelaria,2024-04-29 20:58:00.099181,Completada,
+Kimberly,30,Femenino,Chile,Turismo Cultural,2023-11-20 20:58:00.099181,Completada,
+Paul,63,Femenino,Bolivia,Turismo Cultural,2024-07-26 20:58:00.099181,Completada,
+Tammy,18,Femenino,Chile,Turismo Cultural,2024-02-15 20:58:00.099181,Abandonada,Paquete muy caro
+Julie,40,Masculino,Chile,Tour Lago Titicaca,2024-08-19 20:58:00.099181,Completada,
+Richard,59,Femenino,Bolivia,Tour Lago Titicaca,2023-11-21 20:58:00.099181,Completada,
+Kim,67,Femenino,Bolivia,Turismo Aventura,2024-07-03 20:58:00.099181,Completada,
+Tanya,70,Femenino,Argentina,Tour Lago Titicaca,2023-12-30 20:58:00.099181,Abandonada,Dudas sobre el destino
+Elizabeth,50,Femenino,Bolivia,Turismo Cultural,2024-06-10 20:58:00.099181,Completada,
+Rebecca,29,Femenino,Chile,Turismo Cultural,2024-01-09 20:58:00.099181,Completada,
+Jordan,51,Masculino,Brasil,Fiesta de la Candelaria,2023-11-06 20:58:00.099181,Completada,
+Chelsea,31,Femenino,Perú,Fiesta de la Candelaria,2024-07-05 20:58:00.099181,Completada,
+Brandy,66,Masculino,Perú,Tour Lago Titicaca,2023-11-25 20:58:00.099181,Abandonada,Paquete muy caro
+Alexandria,45,Masculino,Argentina,Turismo Aventura,2024-04-18 20:58:00.099181,Completada,
+Nicholas,60,Masculino,Argentina,Turismo Aventura,2024-08-12 20:58:00.099181,Completada,
+Brian,28,Masculino,Bolivia,Turismo Aventura,2024-01-22 20:58:00.099181,Abandonada,Paquete muy caro
+Dillon,56,Femenino,Perú,Turismo Aventura,2024-01-31 20:58:00.099181,Completada,
+Sabrina,52,Femenino,Argentina,Fiesta de la Candelaria,2024-04-09 20:58:00.099181,Completada,
+Mary,24,Femenino,Brasil,Fiesta de la Candelaria,2024-05-07 20:58:00.099181,Abandonada,Dudas sobre el destino
+Jared,41,Masculino,Argentina,Turismo Aventura,2024-06-04 20:58:00.099181,Abandonada,Problema con el pago
+David,36,Masculino,Brasil,Fiesta de la Candelaria,2024-08-15 20:58:00.099181,Abandonada,Dudas sobre el destino
+Andrea,64,Femenino,Bolivia,Tour Lago Titicaca,2023-10-18 20:58:00.099181,Abandonada,Otro
+Thomas,53,Masculino,Brasil,Fiesta de la Candelaria,2024-04-30 20:58:00.099181,Abandonada,Problema con el pago
+Shelly,68,Masculino,Bolivia,Tour Lago Titicaca,2024-10-01 20:58:00.099181,Abandonada,Problema con el pago
+Johnny,43,Femenino,Perú,Tour Lago Titicaca,2024-06-13 20:58:00.099181,Completada,
+Melissa,56,Femenino,Brasil,Turismo Aventura,2023-11-13 20:58:00.099181,Completada,
+Anthony,23,Masculino,Brasil,Fiesta de la Candelaria,2024-06-11 20:58:00.099181,Completada,
+Travis,45,Femenino,Bolivia,Turismo Cultural,2024-07-24 20:58:00.099181,Completada,
+Joseph,64,Femenino,Perú,Turismo Aventura,2024-09-03 20:58:00.099181,Completada,
+Heather,70,Femenino,Perú,Turismo Cultural,2024-04-08 20:58:00.099181,Completada,
+Madison,65,Femenino,Brasil,Turismo Aventura,2024-08-20 20:58:00.099181,Completada,
+Spencer,44,Masculino,Bolivia,Turismo Cultural,2024-04-27 20:58:00.099181,Completada,
+Frances,54,Masculino,Brasil,Turismo Cultural,2023-12-14 20:58:00.099181,Completada,
+Donna,44,Masculino,Argentina,Turismo Aventura,2024-07-25 20:58:00.099181,Abandonada,Paquete muy caro
+Alexander,32,Masculino,Chile,Turismo Aventura,2024-03-12 20:58:00.099181,Completada,
+Stephanie,18,Femenino,Perú,Turismo Cultural,2024-05-18 20:58:00.099181,Completada,
+Norma,45,Femenino,Bolivia,Fiesta de la Candelaria,2024-05-17 20:58:00.099181,Completada,
+Johnny,28,Masculino,Perú,Fiesta de la Candelaria,2023-12-14 20:58:00.099181,Completada,
+Carl,43,Femenino,Argentina,Turismo Aventura,2023-11-11 20:58:00.099181,Abandonada,Paquete muy caro
+Jason,65,Masculino,Bolivia,Turismo Aventura,2024-08-08 20:58:00.099181,Completada,
+Sara,70,Femenino,Argentina,Turismo Cultural,2023-11-07 20:58:00.099181,Completada,
+Elizabeth,36,Masculino,Perú,Turismo Aventura,2024-02-16 20:58:00.099181,Completada,
+Kathy,43,Masculino,Perú,Tour Lago Titicaca,2024-01-10 20:58:00.099181,Completada,
+Lisa,44,Femenino,Perú,Turismo Aventura,2024-01-17 20:58:00.099181,Abandonada,Dudas sobre el destino
+Joseph,58,Femenino,Bolivia,Turismo Cultural,2024-10-07 20:58:00.099181,Completada,
+Anthony,27,Masculino,Bolivia,Turismo Cultural,2024-08-18 20:58:00.099181,Completada,
+Anita,27,Masculino,Chile,Turismo Aventura,2024-03-28 20:58:00.099181,Completada,
+Tiffany,65,Masculino,Perú,Fiesta de la Candelaria,2024-04-01 20:58:00.099181,Completada,
+Andrew,60,Femenino,Brasil,Fiesta de la Candelaria,2023-12-23 20:58:00.099181,Completada,
+Hayden,45,Femenino,Chile,Fiesta de la Candelaria,2024-02-27 20:58:00.099181,Completada,
+James,30,Masculino,Argentina,Turismo Cultural,2023-12-19 20:58:00.099181,Completada,
+Eric,19,Femenino,Chile,Turismo Cultural,2024-08-17 20:58:00.099181,Abandonada,Problema con el pago
+Kimberly,62,Femenino,Argentina,Tour Lago Titicaca,2024-01-26 20:58:00.099181,Abandonada,Dudas sobre el destino
+Craig,62,Femenino,Brasil,Turismo Aventura,2024-02-18 20:58:00.099181,Completada,
+Kelly,45,Femenino,Brasil,Turismo Aventura,2024-01-12 20:58:00.099181,Abandonada,Otro
+Kelsey,36,Femenino,Brasil,Tour Lago Titicaca,2024-09-23 20:58:00.099181,Abandonada,Problema con el pago
+Jennifer,54,Masculino,Argentina,Turismo Cultural,2024-09-14 20:58:00.099181,Completada,
+Johnny,32,Masculino,Perú,Fiesta de la Candelaria,2024-02-23 20:58:00.099181,Completada,
+Danielle,52,Masculino,Perú,Fiesta de la Candelaria,2024-02-25 20:58:00.099181,Completada,
+Emily,63,Masculino,Chile,Tour Lago Titicaca,2024-05-19 20:58:00.107209,Completada,
+Anna,34,Masculino,Argentina,Fiesta de la Candelaria,2023-12-12 20:58:00.107209,Completada,
+Marissa,35,Femenino,Bolivia,Fiesta de la Candelaria,2023-12-09 20:58:00.107209,Abandonada,Problema con el pago
+Kathleen,19,Masculino,Perú,Tour Lago Titicaca,2023-11-14 20:58:00.107209,Abandonada,Problema con el pago
+Christina,41,Masculino,Argentina,Tour Lago Titicaca,2024-08-28 20:58:00.107209,Abandonada,Problema con el pago
+Stephanie,70,Femenino,Perú,Turismo Aventura,2024-10-06 20:58:00.107209,Abandonada,Dudas sobre el destino
+Joshua,34,Femenino,Argentina,Fiesta de la Candelaria,2024-03-07 20:58:00.107209,Completada,
+Todd,28,Femenino,Perú,Tour Lago Titicaca,2024-07-10 20:58:00.107209,Abandonada,Problema con el pago
+Dylan,24,Femenino,Argentina,Fiesta de la Candelaria,2024-06-26 20:58:00.107209,Completada,
+Michele,42,Femenino,Perú,Tour Lago Titicaca,2024-09-18 20:58:00.107209,Completada,
+Michael,29,Femenino,Bolivia,Turismo Aventura,2024-01-12 20:58:00.107209,Abandonada,Problema con el pago
+Nathaniel,36,Masculino,Brasil,Tour Lago Titicaca,2024-01-01 20:58:00.107209,Completada,
+Joseph,22,Masculino,Chile,Turismo Aventura,2024-02-08 20:58:00.107209,Completada,
+Anthony,25,Masculino,Bolivia,Tour Lago Titicaca,2024-09-13 20:58:00.107209,Abandonada,Problema con el pago
+Angela,21,Femenino,Argentina,Tour Lago Titicaca,2024-09-05 20:58:00.107209,Abandonada,Otro
+Sara,21,Masculino,Bolivia,Fiesta de la Candelaria,2024-10-07 20:58:00.107209,Completada,
+Sandra,31,Femenino,Argentina,Fiesta de la Candelaria,2023-11-19 20:58:00.107209,Abandonada,Otro
+Kevin,55,Masculino,Perú,Turismo Aventura,2023-12-21 20:58:00.107209,Completada,
+Shawn,48,Femenino,Argentina,Tour Lago Titicaca,2024-05-19 20:58:00.107209,Abandonada,Otro
+April,53,Masculino,Chile,Fiesta de la Candelaria,2024-07-17 20:58:00.107209,Completada,
+Melissa,25,Femenino,Chile,Turismo Cultural,2024-04-19 20:58:00.107209,Completada,
+James,36,Femenino,Argentina,Tour Lago Titicaca,2024-02-21 20:58:00.107209,Completada,
+Brian,62,Femenino,Bolivia,Fiesta de la Candelaria,2024-05-31 20:58:00.107209,Completada,
+Debra,51,Femenino,Perú,Turismo Cultural,2024-08-08 20:58:00.107209,Completada,
+Jennifer,21,Masculino,Brasil,Turismo Cultural,2023-10-16 20:58:00.107209,Completada,
+James,32,Masculino,Brasil,Turismo Cultural,2024-01-26 20:58:00.107209,Abandonada,Paquete muy caro
+Andrea,30,Femenino,Argentina,Turismo Cultural,2023-10-17 20:58:00.107209,Completada,
+Valerie,64,Femenino,Brasil,Fiesta de la Candelaria,2023-11-12 20:58:00.107209,Abandonada,Dudas sobre el destino
+Richard,52,Masculino,Bolivia,Tour Lago Titicaca,2023-10-25 20:58:00.107209,Completada,
+Austin,56,Masculino,Perú,Turismo Aventura,2024-07-10 20:58:00.107209,Abandonada,Otro
+Michael,22,Masculino,Chile,Fiesta de la Candelaria,2024-09-26 20:58:00.107209,Completada,
+Samantha,37,Femenino,Chile,Turismo Aventura,2024-05-10 20:58:00.107209,Completada,
+James,62,Masculino,Perú,Turismo Cultural,2024-10-08 20:58:00.107209,Completada,
+Christine,49,Masculino,Argentina,Fiesta de la Candelaria,2024-04-03 20:58:00.107209,Completada,
+Sara,54,Femenino,Argentina,Turismo Aventura,2024-09-13 20:58:00.107209,Completada,
+James,51,Masculino,Brasil,Turismo Cultural,2024-06-13 20:58:00.107209,Completada,
+Patricia,57,Femenino,Brasil,Fiesta de la Candelaria,2024-02-07 20:58:00.107209,Completada,
+Melvin,52,Femenino,Bolivia,Turismo Cultural,2024-10-04 20:58:00.107209,Completada,
+Christopher,34,Masculino,Chile,Turismo Aventura,2023-12-25 20:58:00.107209,Completada,
+Amanda,63,Masculino,Chile,Turismo Cultural,2023-12-11 20:58:00.107209,Completada,
+Julia,53,Masculino,Bolivia,Tour Lago Titicaca,2023-12-26 20:58:00.107209,Completada,
+Tracy,40,Masculino,Brasil,Turismo Aventura,2024-08-27 20:58:00.107209,Completada,
+Alex,23,Femenino,Brasil,Turismo Aventura,2024-09-29 20:58:00.107209,Completada,
+Samantha,67,Femenino,Brasil,Turismo Cultural,2024-08-22 20:58:00.107209,Abandonada,Problema con el pago
+Eric,32,Masculino,Perú,Turismo Aventura,2024-06-18 20:58:00.107209,Abandonada,Paquete muy caro
+Jeffrey,35,Masculino,Brasil,Fiesta de la Candelaria,2024-09-10 20:58:00.107209,Completada,
+Steve,29,Femenino,Chile,Turismo Cultural,2024-08-26 20:58:00.107209,Completada,
+Teresa,23,Femenino,Perú,Turismo Aventura,2024-07-13 20:58:00.107209,Abandonada,Paquete muy caro
+Kenneth,56,Masculino,Argentina,Turismo Aventura,2024-08-14 20:58:00.107209,Completada,
+James,49,Femenino,Bolivia,Fiesta de la Candelaria,2024-05-14 20:58:00.107209,Completada,
+Jake,33,Masculino,Bolivia,Turismo Aventura,2024-07-20 20:58:00.107209,Completada,
+Charles,55,Femenino,Brasil,Turismo Aventura,2023-11-02 20:58:00.107209,Completada,
+Ryan,43,Masculino,Bolivia,Turismo Cultural,2024-07-10 20:58:00.107209,Completada,
+Courtney,25,Masculino,Bolivia,Turismo Cultural,2024-02-16 20:58:00.107209,Completada,
+Kathryn,67,Masculino,Brasil,Fiesta de la Candelaria,2024-06-13 20:58:00.107209,Abandonada,Dudas sobre el destino
+Amanda,38,Femenino,Chile,Turismo Cultural,2024-06-16 20:58:00.107209,Abandonada,Problema con el pago
+Tabitha,50,Femenino,Perú,Fiesta de la Candelaria,2023-11-07 20:58:00.115347,Completada,
+Grant,22,Masculino,Perú,Turismo Cultural,2024-04-16 20:58:00.115347,Completada,
+Robin,48,Femenino,Chile,Turismo Aventura,2024-01-12 20:58:00.115613,Abandonada,Problema con el pago
+Melinda,38,Masculino,Chile,Fiesta de la Candelaria,2024-06-02 20:58:00.115649,Completada,
+Scott,52,Femenino,Argentina,Turismo Cultural,2024-01-22 20:58:00.115649,Completada,
+Gerald,27,Masculino,Perú,Turismo Cultural,2024-02-11 20:58:00.115649,Completada,
+Brandon,65,Masculino,Bolivia,Tour Lago Titicaca,2023-10-18 20:58:00.115649,Completada,
+Angela,58,Masculino,Argentina,Turismo Aventura,2024-04-18 20:58:00.115649,Completada,
+Roy,51,Masculino,Chile,Turismo Aventura,2024-08-17 20:58:00.115649,Completada,
+Leslie,65,Femenino,Perú,Tour Lago Titicaca,2024-02-16 20:58:00.115649,Abandonada,Dudas sobre el destino
+Sylvia,18,Femenino,Perú,Turismo Aventura,2024-04-27 20:58:00.116616,Completada,
+Ann,58,Femenino,Perú,Turismo Aventura,2024-10-11 20:58:00.116616,Completada,
+Kathleen,39,Femenino,Argentina,Turismo Aventura,2024-09-03 20:58:00.116616,Completada,
+Daryl,69,Femenino,Chile,Turismo Aventura,2023-12-15 20:58:00.116616,Completada,
+David,54,Femenino,Chile,Turismo Cultural,2023-11-02 20:58:00.116616,Abandonada,Problema con el pago
+Joshua,46,Femenino,Argentina,Turismo Aventura,2023-10-19 20:58:00.116616,Completada,
+Matthew,68,Masculino,Chile,Turismo Cultural,2024-04-17 20:58:00.116616,Abandonada,Paquete muy caro
+Joann,55,Masculino,Chile,Tour Lago Titicaca,2024-10-15 20:58:00.116616,Abandonada,Paquete muy caro
+Michelle,43,Masculino,Chile,Turismo Aventura,2024-08-20 20:58:00.116616,Completada,
+Tricia,36,Masculino,Chile,Tour Lago Titicaca,2023-12-15 20:58:00.116616,Completada,
+Joseph,57,Femenino,Perú,Turismo Cultural,2023-11-12 20:58:00.116616,Abandonada,Otro
+Elijah,65,Femenino,Argentina,Turismo Cultural,2024-02-19 20:58:00.116616,Completada,
+Sean,69,Femenino,Argentina,Turismo Aventura,2024-07-16 20:58:00.116616,Completada,
+Robert,56,Masculino,Perú,Tour Lago Titicaca,2024-06-19 20:58:00.116616,Completada,
+Joseph,23,Femenino,Brasil,Turismo Cultural,2024-06-21 20:58:00.116616,Completada,
+Douglas,28,Femenino,Bolivia,Turismo Cultural,2024-10-05 20:58:00.116616,Completada,
+Trevor,42,Masculino,Argentina,Fiesta de la Candelaria,2024-05-23 20:58:00.116616,Abandonada,Dudas sobre el destino
+Tyler,33,Masculino,Argentina,Tour Lago Titicaca,2024-03-29 20:58:00.116616,Completada,
+Connie,30,Femenino,Bolivia,Fiesta de la Candelaria,2024-01-20 20:58:00.116616,Abandonada,Dudas sobre el destino
+Sean,27,Masculino,Bolivia,Turismo Aventura,2023-11-24 20:58:00.116616,Completada,
+Melanie,33,Femenino,Argentina,Fiesta de la Candelaria,2023-12-18 20:58:00.116616,Completada,
+Thomas,35,Masculino,Brasil,Tour Lago Titicaca,2024-03-03 20:58:00.116616,Completada,
+Melissa,56,Masculino,Brasil,Turismo Cultural,2024-08-25 20:58:00.116616,Completada,
+Linda,59,Femenino,Brasil,Turismo Aventura,2024-07-25 20:58:00.116616,Abandonada,Otro
+Sandra,27,Femenino,Brasil,Tour Lago Titicaca,2024-05-13 20:58:00.116616,Completada,
+Julie,52,Masculino,Chile,Turismo Cultural,2024-02-06 20:58:00.116616,Completada,
+Wendy,40,Masculino,Bolivia,Turismo Cultural,2023-12-14 20:58:00.116616,Abandonada,Otro
+Jessica,69,Masculino,Bolivia,Turismo Aventura,2024-07-27 20:58:00.116616,Completada,
+Karen,24,Femenino,Chile,Fiesta de la Candelaria,2024-01-24 20:58:00.116616,Completada,
+Megan,67,Masculino,Chile,Fiesta de la Candelaria,2024-02-28 20:58:00.116616,Completada,
+David,37,Masculino,Argentina,Tour Lago Titicaca,2023-12-09 20:58:00.116616,Completada,
+Carla,61,Masculino,Argentina,Turismo Cultural,2024-04-14 20:58:00.116616,Completada,
+Heather,24,Femenino,Brasil,Turismo Cultural,2024-03-13 20:58:00.116616,Completada,
+Connie,20,Masculino,Perú,Fiesta de la Candelaria,2024-04-07 20:58:00.116616,Completada,
+Matthew,70,Femenino,Argentina,Fiesta de la Candelaria,2024-03-16 20:58:00.116616,Completada,
+Lauren,57,Femenino,Perú,Fiesta de la Candelaria,2024-10-08 20:58:00.116616,Abandonada,Dudas sobre el destino
+Sheila,48,Masculino,Perú,Fiesta de la Candelaria,2024-02-07 20:58:00.116616,Completada,
+Hannah,69,Masculino,Bolivia,Turismo Aventura,2024-06-12 20:58:00.116616,Completada,
+Judith,48,Masculino,Perú,Turismo Aventura,2024-09-17 20:58:00.116616,Completada,
+Kimberly,26,Masculino,Chile,Tour Lago Titicaca,2024-01-14 20:58:00.116616,Abandonada,Otro
+Jonathan,30,Femenino,Brasil,Fiesta de la Candelaria,2024-01-07 20:58:00.116616,Abandonada,Problema con el pago
+Timothy,53,Masculino,Brasil,Tour Lago Titicaca,2024-08-05 20:58:00.116616,Completada,
+Olivia,66,Masculino,Chile,Tour Lago Titicaca,2024-04-18 20:58:00.116616,Abandonada,Paquete muy caro
+John,29,Masculino,Chile,Turismo Cultural,2024-02-29 20:58:00.116616,Completada,
+Richard,56,Femenino,Argentina,Fiesta de la Candelaria,2023-11-20 20:58:00.116616,Completada,
+Kelsey,50,Femenino,Perú,Turismo Cultural,2024-01-24 20:58:00.116616,Abandonada,Dudas sobre el destino
+Michele,25,Masculino,Brasil,Turismo Aventura,2024-05-11 20:58:00.116616,Completada,
+Christopher,50,Femenino,Chile,Turismo Aventura,2024-04-23 20:58:00.116616,Completada,
+Alex,57,Femenino,Brasil,Fiesta de la Candelaria,2024-09-23 20:58:00.116616,Abandonada,Dudas sobre el destino
+Kristin,24,Masculino,Chile,Tour Lago Titicaca,2024-05-10 20:58:00.116616,Abandonada,Otro
+Lisa,41,Femenino,Bolivia,Fiesta de la Candelaria,2024-06-15 20:58:00.116616,Completada,
+Kenneth,47,Masculino,Brasil,Tour Lago Titicaca,2024-02-16 20:58:00.124646,Completada,
+Kendra,26,Masculino,Chile,Tour Lago Titicaca,2023-11-03 20:58:00.124925,Completada,
+Nichole,34,Masculino,Bolivia,Tour Lago Titicaca,2024-04-14 20:58:00.124925,Completada,
+Kim,55,Masculino,Argentina,Tour Lago Titicaca,2024-05-24 20:58:00.124925,Completada,
+Amanda,44,Femenino,Bolivia,Turismo Aventura,2024-06-07 20:58:00.124925,Abandonada,Otro
+Steven,62,Masculino,Bolivia,Fiesta de la Candelaria,2024-01-16 20:58:00.124925,Abandonada,Dudas sobre el destino
+Kenneth,34,Femenino,Brasil,Turismo Cultural,2024-09-05 20:58:00.124925,Abandonada,Otro
+Carlos,27,Masculino,Brasil,Turismo Aventura,2024-05-13 20:58:00.125929,Completada,
+Bobby,38,Femenino,Chile,Turismo Aventura,2024-09-10 20:58:00.125929,Completada,
+Thomas,48,Femenino,Argentina,Fiesta de la Candelaria,2023-10-19 20:58:00.125929,Completada,
+Hannah,47,Masculino,Argentina,Turismo Aventura,2024-02-04 20:58:00.125929,Completada,
+John,70,Femenino,Argentina,Turismo Aventura,2024-07-31 20:58:00.125929,Completada,
+Bethany,54,Masculino,Argentina,Turismo Aventura,2024-06-30 20:58:00.125929,Completada,
+Mackenzie,33,Masculino,Argentina,Turismo Aventura,2024-06-26 20:58:00.125929,Completada,
+Megan,20,Masculino,Brasil,Tour Lago Titicaca,2023-11-08 20:58:00.125929,Abandonada,Dudas sobre el destino
+Megan,64,Femenino,Bolivia,Turismo Aventura,2024-04-10 20:58:00.125929,Abandonada,Paquete muy caro
+Ethan,26,Masculino,Argentina,Turismo Cultural,2024-09-15 20:58:00.125929,Abandonada,Paquete muy caro
+Andrew,42,Femenino,Argentina,Fiesta de la Candelaria,2024-03-08 20:58:00.125929,Abandonada,Paquete muy caro
+Tony,54,Masculino,Chile,Turismo Cultural,2024-03-08 20:58:00.125929,Abandonada,Dudas sobre el destino
+Joseph,32,Masculino,Perú,Fiesta de la Candelaria,2024-02-02 20:58:00.125929,Completada,
+Christie,30,Femenino,Chile,Turismo Aventura,2024-02-12 20:58:00.125929,Abandonada,Problema con el pago
+Michael,31,Femenino,Brasil,Turismo Cultural,2024-01-04 20:58:00.125929,Completada,
+John,51,Masculino,Brasil,Fiesta de la Candelaria,2023-11-23 20:58:00.125929,Completada,
+Dennis,41,Masculino,Bolivia,Fiesta de la Candelaria,2024-06-11 20:58:00.125929,Completada,
+Cheryl,58,Femenino,Bolivia,Turismo Cultural,2023-11-01 20:58:00.125929,Completada,
+Amanda,20,Masculino,Chile,Tour Lago Titicaca,2024-08-28 20:58:00.125929,Completada,
+Richard,60,Masculino,Argentina,Turismo Aventura,2024-06-21 20:58:00.125929,Abandonada,Paquete muy caro
+Jacqueline,19,Masculino,Brasil,Turismo Cultural,2024-07-03 20:58:00.125929,Completada,
+Cindy,41,Masculino,Argentina,Fiesta de la Candelaria,2024-03-06 20:58:00.125929,Completada,
+Elizabeth,42,Femenino,Argentina,Fiesta de la Candelaria,2023-12-01 20:58:00.125929,Completada,
+Briana,68,Masculino,Chile,Turismo Aventura,2024-07-31 20:58:00.125929,Completada,
+Andrew,29,Masculino,Perú,Turismo Aventura,2023-11-17 20:58:00.125929,Completada,
+Stephanie,49,Femenino,Perú,Fiesta de la Candelaria,2024-01-30 20:58:00.125929,Completada,
+Leslie,63,Femenino,Argentina,Tour Lago Titicaca,2024-09-19 20:58:00.125929,Completada,
+Teresa,69,Masculino,Chile,Turismo Aventura,2024-10-05 20:58:00.125929,Completada,
+Jose,54,Masculino,Perú,Turismo Aventura,2024-01-18 20:58:00.125929,Completada,
+Victor,51,Femenino,Brasil,Turismo Cultural,2024-03-26 20:58:00.125929,Abandonada,Paquete muy caro
+Linda,35,Femenino,Bolivia,Tour Lago Titicaca,2024-01-06 20:58:00.125929,Completada,
+Brad,60,Femenino,Perú,Tour Lago Titicaca,2024-04-27 20:58:00.125929,Completada,
+Sandra,70,Masculino,Chile,Turismo Cultural,2024-01-21 20:58:00.125929,Abandonada,Otro
+Trevor,52,Masculino,Chile,Tour Lago Titicaca,2024-06-17 20:58:00.125929,Completada,
+Brandon,33,Masculino,Brasil,Turismo Cultural,2023-11-17 20:58:00.125929,Completada,
+Michelle,52,Masculino,Argentina,Turismo Aventura,2024-09-30 20:58:00.125929,Abandonada,Dudas sobre el destino
+Susan,30,Masculino,Brasil,Turismo Cultural,2024-02-15 20:58:00.125929,Completada,
+Jacob,23,Masculino,Argentina,Turismo Cultural,2024-03-29 20:58:00.125929,Completada,
+Megan,51,Masculino,Brasil,Turismo Aventura,2024-05-19 20:58:00.125929,Completada,
+Michael,53,Masculino,Perú,Turismo Aventura,2024-01-01 20:58:00.125929,Completada,
+Tammy,65,Femenino,Perú,Turismo Cultural,2024-09-08 20:58:00.125929,Completada,
+Elijah,69,Masculino,Argentina,Fiesta de la Candelaria,2024-05-01 20:58:00.125929,Completada,
+Stacy,58,Masculino,Perú,Tour Lago Titicaca,2024-06-22 20:58:00.125929,Completada,
+Brian,25,Femenino,Brasil,Fiesta de la Candelaria,2023-10-16 20:58:00.125929,Completada,
+Chad,63,Masculino,Perú,Turismo Cultural,2023-12-07 20:58:00.125929,Completada,
+Elizabeth,42,Femenino,Brasil,Turismo Aventura,2024-08-31 20:58:00.125929,Completada,
+Charles,45,Femenino,Argentina,Turismo Aventura,2024-01-10 20:58:00.125929,Completada,
+David,19,Masculino,Bolivia,Tour Lago Titicaca,2024-08-27 20:58:00.125929,Completada,
+Derek,26,Femenino,Argentina,Fiesta de la Candelaria,2024-09-10 20:58:00.125929,Completada,
+Karen,41,Masculino,Argentina,Tour Lago Titicaca,2024-10-01 20:58:00.125929,Completada,
+Richard,38,Masculino,Bolivia,Turismo Cultural,2024-04-21 20:58:00.125929,Abandonada,Otro
+Andrea,34,Masculino,Chile,Turismo Aventura,2023-12-31 20:58:00.134079,Abandonada,Problema con el pago
+Jennifer,29,Femenino,Brasil,Tour Lago Titicaca,2024-05-13 20:58:00.134355,Completada,
+David,44,Femenino,Perú,Turismo Cultural,2024-03-11 20:58:00.134355,Abandonada,Otro
+Cory,53,Masculino,Argentina,Fiesta de la Candelaria,2024-03-15 20:58:00.134355,Completada,
+Ronald,25,Masculino,Brasil,Fiesta de la Candelaria,2023-12-07 20:58:00.134355,Abandonada,Paquete muy caro
+Andrea,29,Masculino,Argentina,Tour Lago Titicaca,2024-01-05 20:58:00.134355,Completada,
+Kevin,70,Masculino,Argentina,Turismo Aventura,2024-08-08 20:58:00.134355,Abandonada,Otro
+Matthew,19,Femenino,Brasil,Fiesta de la Candelaria,2024-05-04 20:58:00.135328,Abandonada,Dudas sobre el destino
+Sarah,34,Femenino,Perú,Tour Lago Titicaca,2024-09-07 20:58:00.135328,Completada,
+Jeffrey,30,Femenino,Bolivia,Turismo Aventura,2024-08-08 20:58:00.135328,Completada,
+Peter,46,Masculino,Argentina,Tour Lago Titicaca,2024-04-07 20:58:00.135328,Completada,
+Phyllis,30,Femenino,Argentina,Turismo Aventura,2024-02-14 20:58:00.135328,Completada,
+Scott,18,Femenino,Chile,Turismo Aventura,2024-08-06 20:58:00.135328,Completada,
+Julie,20,Masculino,Argentina,Turismo Aventura,2023-12-23 20:58:00.135328,Completada,
+Megan,37,Femenino,Brasil,Fiesta de la Candelaria,2024-07-27 20:58:00.135328,Completada,
+Barbara,47,Femenino,Perú,Fiesta de la Candelaria,2024-08-02 20:58:00.135328,Completada,
+Rachel,54,Femenino,Perú,Tour Lago Titicaca,2023-12-31 20:58:00.135328,Completada,
+Crystal,68,Masculino,Bolivia,Fiesta de la Candelaria,2024-10-12 20:58:00.135328,Abandonada,Problema con el pago
+Crystal,47,Femenino,Brasil,Turismo Aventura,2024-02-27 20:58:00.135328,Completada,
+Brian,21,Femenino,Bolivia,Fiesta de la Candelaria,2023-11-25 20:58:00.135328,Completada,
+Courtney,64,Masculino,Bolivia,Fiesta de la Candelaria,2024-06-24 20:58:00.135328,Completada,
+Jennifer,25,Masculino,Perú,Turismo Aventura,2023-11-25 20:58:00.135328,Completada,
+Erik,38,Masculino,Brasil,Fiesta de la Candelaria,2024-09-25 20:58:00.135328,Completada,
+Jason,43,Femenino,Perú,Turismo Aventura,2024-09-19 20:58:00.135328,Abandonada,Otro
+Deborah,21,Femenino,Perú,Tour Lago Titicaca,2023-11-21 20:58:00.135328,Completada,
+Lisa,36,Femenino,Bolivia,Turismo Aventura,2024-09-02 20:58:00.135328,Completada,
+Patricia,55,Masculino,Chile,Turismo Aventura,2024-01-08 20:58:00.135328,Completada,
+Kristina,25,Femenino,Perú,Tour Lago Titicaca,2024-07-05 20:58:00.135328,Abandonada,Paquete muy caro
+Frank,60,Femenino,Bolivia,Fiesta de la Candelaria,2024-10-12 20:58:00.135328,Completada,
+Sheri,27,Femenino,Brasil,Fiesta de la Candelaria,2024-06-09 20:58:00.135328,Completada,
+Andre,51,Masculino,Chile,Turismo Aventura,2024-09-04 20:58:00.135328,Completada,
+Sabrina,18,Femenino,Chile,Fiesta de la Candelaria,2024-02-20 20:58:00.135328,Completada,
+Michelle,51,Masculino,Brasil,Turismo Cultural,2024-08-21 20:58:00.135328,Completada,
+Haley,38,Masculino,Argentina,Turismo Cultural,2024-06-04 20:58:00.135328,Completada,
+John,34,Masculino,Brasil,Fiesta de la Candelaria,2024-07-15 20:58:00.135328,Completada,
+Alexa,63,Femenino,Chile,Turismo Aventura,2024-03-29 20:58:00.135328,Completada,
+Christine,20,Masculino,Bolivia,Fiesta de la Candelaria,2024-03-05 20:58:00.135328,Completada,
+Brenda,19,Masculino,Chile,Turismo Aventura,2024-02-05 20:58:00.135328,Completada,
+Veronica,36,Masculino,Perú,Turismo Cultural,2024-04-16 20:58:00.135328,Abandonada,Paquete muy caro
+Brandon,49,Masculino,Perú,Fiesta de la Candelaria,2024-03-23 20:58:00.135328,Completada,
+Amy,37,Femenino,Argentina,Turismo Aventura,2024-04-25 20:58:00.135328,Completada,
+Eric,49,Femenino,Argentina,Turismo Aventura,2024-06-17 20:58:00.135328,Completada,
+Jason,54,Masculino,Chile,Turismo Cultural,2024-05-05 20:58:00.135328,Completada,
+Manuel,65,Masculino,Brasil,Tour Lago Titicaca,2024-06-25 20:58:00.135328,Abandonada,Paquete muy caro
+Samantha,40,Femenino,Perú,Tour Lago Titicaca,2024-03-20 20:58:00.135328,Completada,
+Brandon,46,Masculino,Argentina,Turismo Aventura,2024-04-05 20:58:00.135328,Abandonada,Paquete muy caro
+Troy,57,Masculino,Bolivia,Turismo Cultural,2024-04-14 20:58:00.135328,Completada,
+Annette,43,Masculino,Brasil,Turismo Aventura,2024-04-08 20:58:00.135328,Completada,
+Allison,42,Femenino,Chile,Tour Lago Titicaca,2024-02-24 20:58:00.135328,Completada,
+Michaela,55,Masculino,Brasil,Turismo Aventura,2023-11-24 20:58:00.135328,Completada,
+Grace,55,Masculino,Perú,Fiesta de la Candelaria,2024-04-08 20:58:00.135328,Abandonada,Paquete muy caro
+Christian,51,Masculino,Brasil,Fiesta de la Candelaria,2024-06-03 20:58:00.135328,Completada,
+Crystal,43,Femenino,Argentina,Fiesta de la Candelaria,2024-08-14 20:58:00.135328,Completada,
+Brittany,28,Masculino,Argentina,Turismo Aventura,2023-10-21 20:58:00.135328,Completada,
+Brandon,60,Femenino,Bolivia,Turismo Cultural,2024-04-15 20:58:00.135328,Completada,
+Sarah,18,Masculino,Argentina,Turismo Cultural,2024-06-24 20:58:00.135328,Completada,
+Lindsay,62,Masculino,Bolivia,Fiesta de la Candelaria,2024-05-12 20:58:00.135328,Completada,
+Robert,25,Masculino,Argentina,Tour Lago Titicaca,2024-07-24 20:58:00.135328,Completada,
+Whitney,24,Femenino,Brasil,Turismo Cultural,2023-11-11 20:58:00.135328,Completada,
+Ryan,33,Femenino,Bolivia,Turismo Cultural,2023-12-16 20:58:00.135328,Completada,
+Jeremy,67,Masculino,Argentina,Fiesta de la Candelaria,2023-12-08 20:58:00.143626,Completada,
+Victoria,44,Femenino,Brasil,Fiesta de la Candelaria,2024-04-01 20:58:00.143848,Completada,
+Leslie,41,Masculino,Brasil,Turismo Cultural,2024-09-07 20:58:00.144370,Completada,
+Anna,29,Masculino,Brasil,Turismo Aventura,2023-11-04 20:58:00.144560,Abandonada,Problema con el pago
+Nicole,53,Masculino,Argentina,Turismo Cultural,2024-01-06 20:58:00.144962,Abandonada,Paquete muy caro
+Laura,33,Femenino,Chile,Fiesta de la Candelaria,2024-06-28 20:58:00.145169,Completada,
+Zachary,66,Femenino,Chile,Turismo Aventura,2024-10-09 20:58:00.145297,Completada,
+Jennifer,21,Femenino,Perú,Turismo Cultural,2024-06-23 20:58:00.145448,Completada,
+Christopher,64,Femenino,Brasil,Tour Lago Titicaca,2024-04-13 20:58:00.145711,Completada,
+Scott,63,Masculino,Chile,Fiesta de la Candelaria,2023-12-04 20:58:00.145711,Completada,
+Kristina,38,Femenino,Brasil,Tour Lago Titicaca,2024-05-16 20:58:00.146211,Completada,
+Richard,36,Masculino,Perú,Tour Lago Titicaca,2024-07-28 20:58:00.146211,Completada,
+Jason,37,Masculino,Chile,Tour Lago Titicaca,2024-06-05 20:58:00.146520,Completada,
+Robert,42,Femenino,Perú,Turismo Aventura,2023-11-05 20:58:00.146714,Completada,
+Tim,41,Femenino,Perú,Turismo Aventura,2024-09-03 20:58:00.146714,Abandonada,Dudas sobre el destino
+Pamela,20,Masculino,Bolivia,Turismo Aventura,2023-11-09 20:58:00.147104,Completada,
+David,41,Masculino,Argentina,Fiesta de la Candelaria,2024-06-22 20:58:00.147104,Completada,
+Scott,70,Masculino,Bolivia,Fiesta de la Candelaria,2024-06-09 20:58:00.147104,Completada,
+Joshua,54,Femenino,Perú,Fiesta de la Candelaria,2024-08-13 20:58:00.147711,Abandonada,Dudas sobre el destino
+Whitney,67,Masculino,Chile,Turismo Cultural,2024-08-06 20:58:00.147711,Completada,
+Briana,42,Masculino,Chile,Turismo Cultural,2024-10-07 20:58:00.147711,Completada,
+Diana,25,Masculino,Perú,Fiesta de la Candelaria,2024-07-21 20:58:00.147711,Completada,
+Susan,32,Femenino,Chile,Turismo Aventura,2024-10-09 20:58:00.147711,Completada,
+James,21,Femenino,Argentina,Turismo Cultural,2024-05-10 20:58:00.147711,Abandonada,Otro
+Kathryn,26,Femenino,Argentina,Tour Lago Titicaca,2024-06-17 20:58:00.147711,Completada,
+Carlos,58,Femenino,Perú,Fiesta de la Candelaria,2024-04-04 20:58:00.148757,Completada,
+Breanna,52,Femenino,Chile,Fiesta de la Candelaria,2024-07-24 20:58:00.148757,Abandonada,Otro
+Gregg,45,Femenino,Perú,Turismo Aventura,2024-02-20 20:58:00.148757,Completada,
+William,34,Femenino,Brasil,Tour Lago Titicaca,2024-07-26 20:58:00.149575,Abandonada,Otro
+John,26,Femenino,Chile,Turismo Cultural,2024-07-31 20:58:00.149575,Abandonada,Paquete muy caro
+Christopher,58,Femenino,Perú,Fiesta de la Candelaria,2024-09-05 20:58:00.149575,Abandonada,Dudas sobre el destino
+Christina,58,Femenino,Bolivia,Fiesta de la Candelaria,2024-02-25 20:58:00.149575,Completada,
+Shelia,53,Femenino,Argentina,Fiesta de la Candelaria,2023-10-26 20:58:00.149575,Abandonada,Dudas sobre el destino
+Barbara,45,Masculino,Chile,Tour Lago Titicaca,2023-11-10 20:58:00.149575,Abandonada,Dudas sobre el destino
+Elizabeth,55,Femenino,Argentina,Turismo Cultural,2023-11-21 20:58:00.149575,Completada,
+Samuel,41,Masculino,Bolivia,Turismo Aventura,2024-08-29 20:58:00.150625,Completada,
+Lisa,21,Femenino,Chile,Turismo Aventura,2024-07-18 20:58:00.150918,Completada,
+Michael,47,Femenino,Chile,Fiesta de la Candelaria,2023-10-26 20:58:00.150918,Completada,
+Tracy,39,Masculino,Brasil,Turismo Aventura,2024-08-12 20:58:00.150918,Completada,
+Rebecca,32,Femenino,Argentina,Turismo Aventura,2023-11-19 20:58:00.150918,Completada,
+Kimberly,32,Femenino,Perú,Turismo Cultural,2024-01-22 20:58:00.150918,Abandonada,Problema con el pago
+Michael,53,Femenino,Argentina,Fiesta de la Candelaria,2024-03-08 20:58:00.150918,Completada,
+Monica,62,Femenino,Chile,Turismo Aventura,2024-05-08 20:58:00.150918,Completada,
+William,65,Masculino,Perú,Turismo Aventura,2024-02-26 20:58:00.151966,Abandonada,Dudas sobre el destino
+Lisa,36,Masculino,Bolivia,Turismo Cultural,2024-02-12 20:58:00.152222,Completada,
+Samantha,28,Masculino,Argentina,Tour Lago Titicaca,2024-02-23 20:58:00.152222,Abandonada,Otro
+Carl,68,Femenino,Bolivia,Turismo Aventura,2024-08-24 20:58:00.152222,Completada,
+Kelly,24,Masculino,Argentina,Turismo Aventura,2024-07-04 20:58:00.152222,Completada,
+Kari,58,Femenino,Argentina,Fiesta de la Candelaria,2024-04-14 20:58:00.152222,Completada,
+Nathan,52,Masculino,Brasil,Turismo Cultural,2024-01-22 20:58:00.152222,Completada,
+Makayla,63,Femenino,Chile,Turismo Aventura,2024-03-03 20:58:00.152222,Abandonada,Paquete muy caro
+Laura,70,Femenino,Perú,Turismo Aventura,2024-03-10 20:58:00.152222,Completada,
+Larry,25,Femenino,Argentina,Fiesta de la Candelaria,2024-09-11 20:58:00.152222,Completada,
+Jonathan,44,Masculino,Perú,Tour Lago Titicaca,2024-09-28 20:58:00.152222,Abandonada,Dudas sobre el destino
+Jesse,54,Femenino,Chile,Turismo Aventura,2023-11-12 20:58:00.152222,Completada,
+Paul,66,Femenino,Bolivia,Turismo Cultural,2024-01-16 20:58:00.152222,Completada,
+Adam,22,Femenino,Bolivia,Turismo Aventura,2024-10-13 20:58:00.152222,Completada,
+Yvonne,63,Masculino,Argentina,Fiesta de la Candelaria,2024-09-29 20:58:00.152222,Completada,
+Jose,49,Femenino,Bolivia,Tour Lago Titicaca,2024-02-27 20:58:00.152222,Completada,
+William,70,Masculino,Perú,Turismo Aventura,2024-03-07 20:58:00.152222,Completada,
+Tiffany,53,Femenino,Perú,Turismo Cultural,2024-07-09 20:58:00.152222,Completada,
+Elizabeth,49,Femenino,Perú,Turismo Aventura,2023-10-21 20:58:00.152222,Completada,
+Donna,18,Femenino,Bolivia,Fiesta de la Candelaria,2024-03-23 20:58:00.152222,Abandonada,Otro
+Cathy,34,Masculino,Chile,Turismo Aventura,2024-08-12 20:58:00.152222,Completada,
+Joseph,65,Femenino,Chile,Tour Lago Titicaca,2024-03-12 20:58:00.152222,Abandonada,Otro
+Scott,43,Femenino,Bolivia,Tour Lago Titicaca,2023-11-20 20:58:00.152222,Completada,
+Vanessa,69,Femenino,Argentina,Fiesta de la Candelaria,2024-04-28 20:58:00.152222,Completada,
+Deborah,55,Femenino,Argentina,Turismo Aventura,2024-08-07 20:58:00.152222,Completada,
+Dennis,20,Femenino,Perú,Turismo Aventura,2023-12-27 20:58:00.152222,Abandonada,Problema con el pago
+Jacob,40,Masculino,Perú,Turismo Cultural,2024-03-12 20:58:00.152222,Completada,
+Jose,37,Femenino,Chile,Turismo Aventura,2024-06-18 20:58:00.152222,Completada,
+Karen,59,Femenino,Brasil,Turismo Cultural,2024-08-14 20:58:00.152222,Abandonada,Otro
+Tyler,56,Masculino,Brasil,Turismo Cultural,2024-05-03 20:58:00.152222,Completada,
+Anthony,44,Femenino,Bolivia,Tour Lago Titicaca,2024-06-19 20:58:00.152222,Completada,
+Jessica,52,Masculino,Brasil,Turismo Aventura,2023-12-17 20:58:00.152222,Completada,
+Michelle,46,Femenino,Bolivia,Fiesta de la Candelaria,2023-12-28 20:58:00.152222,Completada,
+Jodi,41,Masculino,Bolivia,Turismo Cultural,2024-04-16 20:58:00.152222,Abandonada,Problema con el pago
+Julia,53,Masculino,Perú,Turismo Cultural,2024-10-06 20:58:00.152222,Completada,
+Michelle,44,Femenino,Bolivia,Tour Lago Titicaca,2024-02-01 20:58:00.152222,Completada,
+Amy,58,Masculino,Chile,Turismo Cultural,2024-05-11 20:58:00.152222,Abandonada,Dudas sobre el destino
+Brenda,39,Femenino,Perú,Fiesta de la Candelaria,2024-06-21 20:58:00.152222,Abandonada,Dudas sobre el destino
+Benjamin,45,Masculino,Argentina,Turismo Aventura,2024-07-22 20:58:00.152222,Completada,
+Cheryl,38,Masculino,Argentina,Turismo Aventura,2024-07-06 20:58:00.160282,Completada,
+Cole,54,Femenino,Brasil,Fiesta de la Candelaria,2024-03-01 20:58:00.160512,Abandonada,Paquete muy caro
+Michael,51,Masculino,Chile,Turismo Cultural,2023-11-11 20:58:00.160512,Completada,
+Timothy,29,Masculino,Chile,Tour Lago Titicaca,2024-02-12 20:58:00.160512,Completada,
+Raymond,59,Femenino,Argentina,Tour Lago Titicaca,2024-09-10 20:58:00.160512,Completada,
+Angela,68,Femenino,Argentina,Tour Lago Titicaca,2024-01-29 20:58:00.161559,Completada,
+Kimberly,36,Masculino,Brasil,Fiesta de la Candelaria,2024-07-29 20:58:00.161559,Completada,
+Greg,30,Masculino,Argentina,Turismo Aventura,2024-04-10 20:58:00.161559,Completada,
+William,65,Masculino,Brasil,Fiesta de la Candelaria,2024-05-23 20:58:00.161559,Completada,
+Jonathan,40,Masculino,Chile,Turismo Aventura,2024-09-28 20:58:00.161559,Completada,
+David,48,Masculino,Chile,Fiesta de la Candelaria,2024-04-20 20:58:00.161559,Completada,
+Wanda,47,Femenino,Chile,Turismo Aventura,2024-04-11 20:58:00.161559,Completada,
+Nicole,56,Masculino,Perú,Turismo Cultural,2024-02-11 20:58:00.161559,Completada,
+Nancy,56,Femenino,Bolivia,Fiesta de la Candelaria,2023-11-17 20:58:00.161559,Completada,
+Karina,29,Femenino,Chile,Turismo Aventura,2024-03-03 20:58:00.161559,Completada,
+James,34,Masculino,Bolivia,Fiesta de la Candelaria,2024-05-11 20:58:00.161559,Completada,
+Casey,32,Femenino,Chile,Tour Lago Titicaca,2024-02-13 20:58:00.161559,Completada,
+Angela,50,Masculino,Perú,Fiesta de la Candelaria,2024-04-04 20:58:00.161559,Completada,
+Aaron,66,Masculino,Perú,Tour Lago Titicaca,2024-06-08 20:58:00.161559,Completada,
+Michael,24,Masculino,Bolivia,Fiesta de la Candelaria,2023-12-07 20:58:00.161559,Abandonada,Problema con el pago
+Theresa,49,Femenino,Perú,Fiesta de la Candelaria,2023-12-01 20:58:00.161559,Abandonada,Paquete muy caro
+Debra,23,Masculino,Perú,Tour Lago Titicaca,2024-06-08 20:58:00.161559,Abandonada,Otro
+Jamie,33,Masculino,Perú,Tour Lago Titicaca,2024-09-05 20:58:00.161559,Completada,
+Daniel,50,Femenino,Perú,Fiesta de la Candelaria,2024-01-18 20:58:00.161559,Completada,
+Gerald,42,Masculino,Chile,Tour Lago Titicaca,2024-04-15 20:58:00.161559,Abandonada,Paquete muy caro
+Amy,45,Femenino,Bolivia,Turismo Aventura,2024-07-19 20:58:00.161559,Completada,
+Michael,49,Femenino,Perú,Turismo Cultural,2024-04-09 20:58:00.161559,Abandonada,Paquete muy caro
+Marcia,68,Masculino,Brasil,Turismo Cultural,2024-06-03 20:58:00.161559,Completada,
+Julie,21,Masculino,Chile,Turismo Cultural,2023-10-24 20:58:00.161559,Completada,
+Adriana,50,Femenino,Argentina,Tour Lago Titicaca,2024-01-22 20:58:00.161559,Completada,
+Benjamin,28,Femenino,Argentina,Turismo Cultural,2024-07-06 20:58:00.161559,Abandonada,Dudas sobre el destino
+Janice,68,Femenino,Brasil,Tour Lago Titicaca,2024-08-12 20:58:00.161559,Completada,
+Colleen,54,Femenino,Brasil,Turismo Cultural,2024-03-24 20:58:00.161559,Completada,
+Kaitlyn,70,Femenino,Chile,Fiesta de la Candelaria,2024-06-07 20:58:00.161559,Abandonada,Dudas sobre el destino
+Joseph,37,Masculino,Brasil,Turismo Cultural,2024-08-23 20:58:00.161559,Completada,
+Bryan,56,Masculino,Chile,Tour Lago Titicaca,2023-12-03 20:58:00.161559,Abandonada,Problema con el pago
+Gregory,23,Femenino,Brasil,Tour Lago Titicaca,2024-03-02 20:58:00.161559,Abandonada,Dudas sobre el destino
+Austin,22,Masculino,Brasil,Fiesta de la Candelaria,2024-04-28 20:58:00.161559,Abandonada,Paquete muy caro
+Michael,66,Femenino,Argentina,Tour Lago Titicaca,2024-06-11 20:58:00.161559,Completada,
+Nicholas,38,Femenino,Argentina,Tour Lago Titicaca,2023-11-11 20:58:00.161559,Completada,
+Bridget,59,Femenino,Brasil,Turismo Cultural,2024-04-06 20:58:00.161559,Completada,
+Kurt,54,Masculino,Perú,Turismo Aventura,2023-10-19 20:58:00.169798,Completada,
+Thomas,67,Femenino,Brasil,Tour Lago Titicaca,2023-11-11 20:58:00.169982,Completada,
+Phillip,35,Femenino,Brasil,Turismo Aventura,2024-03-22 20:58:00.169982,Abandonada,Paquete muy caro
+Cody,21,Masculino,Brasil,Turismo Aventura,2024-04-02 20:58:00.169982,Completada,
+Sandra,19,Masculino,Bolivia,Fiesta de la Candelaria,2024-03-08 20:58:00.169982,Completada,
+Jeffrey,25,Masculino,Brasil,Fiesta de la Candelaria,2024-06-10 20:58:00.169982,Completada,
+Benjamin,20,Femenino,Argentina,Turismo Aventura,2024-03-27 20:58:00.169982,Completada,
+Tonya,21,Femenino,Argentina,Fiesta de la Candelaria,2024-04-22 20:58:00.169982,Completada,
+Christopher,44,Masculino,Bolivia,Turismo Aventura,2024-06-14 20:58:00.169982,Completada,
+Danny,26,Masculino,Argentina,Turismo Cultural,2024-07-21 20:58:00.169982,Abandonada,Dudas sobre el destino
+Rebecca,18,Masculino,Perú,Tour Lago Titicaca,2024-02-27 20:58:00.169982,Abandonada,Dudas sobre el destino
+John,28,Femenino,Bolivia,Turismo Aventura,2024-09-28 20:58:00.169982,Completada,
+Brian,31,Masculino,Brasil,Turismo Cultural,2024-03-29 20:58:00.169982,Completada,
+Joanna,18,Femenino,Chile,Tour Lago Titicaca,2024-02-27 20:58:00.169982,Completada,
+Donna,40,Masculino,Chile,Turismo Aventura,2024-02-28 20:58:00.169982,Completada,
+Phillip,64,Masculino,Bolivia,Turismo Aventura,2023-12-30 20:58:00.169982,Completada,
+Rebecca,67,Femenino,Bolivia,Tour Lago Titicaca,2023-10-28 20:58:00.169982,Completada,
+Adam,54,Masculino,Brasil,Turismo Aventura,2024-03-25 20:58:00.169982,Completada,
+Michael,20,Masculino,Chile,Turismo Cultural,2023-12-03 20:58:00.169982,Abandonada,Problema con el pago
+Jerome,68,Femenino,Perú,Fiesta de la Candelaria,2024-06-11 20:58:00.169982,Completada,
+Nicole,51,Masculino,Brasil,Turismo Cultural,2023-11-25 20:58:00.169982,Abandonada,Dudas sobre el destino
+Johnathan,40,Masculino,Bolivia,Fiesta de la Candelaria,2024-06-28 20:58:00.169982,Completada,
+Sandra,30,Masculino,Perú,Fiesta de la Candelaria,2024-04-09 20:58:00.169982,Completada,
+Summer,54,Masculino,Bolivia,Tour Lago Titicaca,2024-06-25 20:58:00.169982,Completada,
+Jodi,57,Masculino,Brasil,Tour Lago Titicaca,2024-01-16 20:58:00.169982,Abandonada,Paquete muy caro
+Deborah,61,Masculino,Chile,Turismo Cultural,2024-05-11 20:58:00.169982,Completada,
+Charlotte,70,Femenino,Perú,Turismo Cultural,2023-12-17 20:58:00.169982,Completada,
+Hannah,69,Femenino,Perú,Turismo Aventura,2024-01-06 20:58:00.169982,Abandonada,Paquete muy caro
+Jim,51,Masculino,Perú,Turismo Aventura,2024-01-12 20:58:00.169982,Abandonada,Paquete muy caro
+Brittany,45,Masculino,Perú,Turismo Aventura,2024-08-27 20:58:00.169982,Abandonada,Paquete muy caro
+Louis,45,Femenino,Argentina,Fiesta de la Candelaria,2023-12-25 20:58:00.169982,Completada,
+Brett,61,Femenino,Brasil,Turismo Cultural,2024-07-30 20:58:00.169982,Completada,
+Adrian,46,Masculino,Brasil,Fiesta de la Candelaria,2024-01-20 20:58:00.169982,Completada,
+Charlotte,19,Femenino,Bolivia,Tour Lago Titicaca,2024-08-14 20:58:00.169982,Completada,
+Gerald,43,Masculino,Chile,Tour Lago Titicaca,2024-01-23 20:58:00.169982,Completada,
+Manuel,53,Femenino,Argentina,Fiesta de la Candelaria,2024-04-25 20:58:00.169982,Completada,
+Gabriel,62,Femenino,Chile,Fiesta de la Candelaria,2024-05-13 20:58:00.169982,Completada,
+James,30,Masculino,Brasil,Fiesta de la Candelaria,2024-10-08 20:58:00.178338,Abandonada,Paquete muy caro
+Kristin,55,Femenino,Argentina,Turismo Cultural,2024-08-19 20:58:00.178338,Abandonada,Paquete muy caro
+Whitney,48,Femenino,Brasil,Tour Lago Titicaca,2024-07-04 20:58:00.178338,Abandonada,Paquete muy caro
+Stacy,44,Masculino,Bolivia,Fiesta de la Candelaria,2024-09-25 20:58:00.178338,Completada,
+Veronica,57,Femenino,Brasil,Turismo Cultural,2024-03-20 20:58:00.179572,Abandonada,Dudas sobre el destino
+Victor,53,Femenino,Perú,Turismo Cultural,2024-08-12 20:58:00.179572,Abandonada,Problema con el pago
+Anthony,51,Femenino,Bolivia,Tour Lago Titicaca,2024-05-13 20:58:00.179572,Abandonada,Otro
+Amy,42,Masculino,Argentina,Turismo Cultural,2024-04-29 20:58:00.179572,Completada,
+John,68,Femenino,Perú,Turismo Aventura,2024-06-18 20:58:00.179572,Completada,
+Cody,54,Femenino,Bolivia,Fiesta de la Candelaria,2024-06-25 20:58:00.180632,Completada,
+Joshua,70,Femenino,Perú,Fiesta de la Candelaria,2024-04-19 20:58:00.180632,Abandonada,Paquete muy caro
+Whitney,65,Masculino,Bolivia,Turismo Cultural,2024-08-03 20:58:00.180632,Completada,
+Gregory,23,Femenino,Argentina,Fiesta de la Candelaria,2024-03-19 20:58:00.180632,Abandonada,Paquete muy caro
+Jane,42,Masculino,Brasil,Fiesta de la Candelaria,2024-10-03 20:58:00.180632,Completada,
+Tyler,57,Femenino,Chile,Tour Lago Titicaca,2024-09-03 20:58:00.180632,Abandonada,Problema con el pago
+Bruce,44,Masculino,Perú,Tour Lago Titicaca,2024-02-22 20:58:00.180632,Completada,
+Darlene,54,Femenino,Perú,Turismo Aventura,2024-04-11 20:58:00.180632,Completada,
+Dale,51,Femenino,Brasil,Turismo Cultural,2024-07-19 20:58:00.180632,Abandonada,Otro
+Alexa,44,Femenino,Chile,Tour Lago Titicaca,2024-04-16 20:58:00.180632,Abandonada,Problema con el pago
+Richard,33,Femenino,Argentina,Fiesta de la Candelaria,2024-08-23 20:58:00.180632,Abandonada,Paquete muy caro
+Jessica,45,Masculino,Argentina,Turismo Cultural,2024-10-04 20:58:00.180632,Abandonada,Paquete muy caro
+Aaron,48,Masculino,Perú,Turismo Aventura,2023-12-19 20:58:00.180632,Completada,
+Jennifer,28,Masculino,Brasil,Turismo Cultural,2023-11-05 20:58:00.180632,Completada,
+Justin,35,Femenino,Bolivia,Turismo Cultural,2024-03-15 20:58:00.180632,Abandonada,Otro
+Derek,37,Masculino,Brasil,Turismo Aventura,2024-07-23 20:58:00.180632,Completada,
+Jennifer,63,Femenino,Chile,Tour Lago Titicaca,2024-05-01 20:58:00.180632,Completada,
+Jerome,52,Femenino,Chile,Fiesta de la Candelaria,2023-12-26 20:58:00.180632,Completada,
+Jessica,42,Femenino,Bolivia,Fiesta de la Candelaria,2023-11-18 20:58:00.180632,Completada,
+Eric,27,Masculino,Brasil,Tour Lago Titicaca,2024-04-18 20:58:00.180632,Completada,
+Derrick,62,Femenino,Bolivia,Tour Lago Titicaca,2024-08-14 20:58:00.180632,Abandonada,Problema con el pago
+Grant,21,Femenino,Chile,Fiesta de la Candelaria,2023-11-10 20:58:00.180632,Completada,
+Isabella,47,Femenino,Perú,Fiesta de la Candelaria,2024-04-11 20:58:00.180632,Completada,
+Mathew,43,Femenino,Chile,Turismo Aventura,2024-01-10 20:58:00.180632,Abandonada,Dudas sobre el destino
+Matthew,38,Femenino,Perú,Tour Lago Titicaca,2024-01-29 20:58:00.180632,Completada,
+Gregory,20,Femenino,Perú,Turismo Aventura,2024-03-25 20:58:00.180632,Completada,
+Catherine,35,Masculino,Chile,Turismo Cultural,2023-11-19 20:58:00.180632,Abandonada,Paquete muy caro
+John,61,Femenino,Argentina,Turismo Aventura,2024-02-28 20:58:00.180632,Completada,
+Patrick,62,Masculino,Argentina,Turismo Cultural,2024-09-07 20:58:00.180632,Abandonada,Dudas sobre el destino
+Vanessa,68,Femenino,Bolivia,Tour Lago Titicaca,2024-01-20 20:58:00.180632,Abandonada,Otro
+Kari,68,Masculino,Perú,Turismo Cultural,2024-04-21 20:58:00.180632,Abandonada,Dudas sobre el destino
+Daniel,29,Femenino,Argentina,Fiesta de la Candelaria,2023-10-17 20:58:00.180632,Completada,
+Angela,31,Masculino,Bolivia,Fiesta de la Candelaria,2024-10-09 20:58:00.180632,Abandonada,Otro
+William,36,Femenino,Argentina,Turismo Cultural,2024-08-14 20:58:00.180632,Completada,
+Brittany,40,Femenino,Chile,Turismo Aventura,2023-10-18 20:58:00.180632,Completada,
+Albert,55,Masculino,Chile,Tour Lago Titicaca,2024-08-09 20:58:00.180632,Completada,
+Peter,51,Masculino,Perú,Fiesta de la Candelaria,2024-06-20 20:58:00.188832,Completada,
+Kathy,28,Masculino,Chile,Turismo Cultural,2024-09-14 20:58:00.188832,Completada,
+Susan,70,Femenino,Argentina,Turismo Cultural,2023-11-11 20:58:00.188832,Completada,
+Andrew,50,Femenino,Bolivia,Fiesta de la Candelaria,2024-03-04 20:58:00.188832,Completada,
+Ricardo,22,Masculino,Argentina,Tour Lago Titicaca,2024-05-10 20:58:00.188832,Completada,
+Michelle,63,Femenino,Bolivia,Fiesta de la Candelaria,2024-02-01 20:58:00.188832,Completada,
+Nancy,60,Femenino,Bolivia,Fiesta de la Candelaria,2024-03-06 20:58:00.188832,Abandonada,Paquete muy caro
+Angela,52,Femenino,Chile,Turismo Aventura,2024-07-02 20:58:00.188832,Completada,
+Matthew,67,Masculino,Bolivia,Tour Lago Titicaca,2024-07-15 20:58:00.188832,Completada,
+Jeffrey,45,Masculino,Bolivia,Turismo Aventura,2023-12-12 20:58:00.188832,Completada,
+Jose,42,Femenino,Argentina,Tour Lago Titicaca,2024-03-07 20:58:00.188832,Completada,
+George,41,Femenino,Chile,Tour Lago Titicaca,2024-08-16 20:58:00.188832,Completada,
+Jason,32,Femenino,Brasil,Turismo Cultural,2023-11-28 20:58:00.188832,Completada,
+Amy,59,Masculino,Bolivia,Turismo Aventura,2024-04-02 20:58:00.188832,Abandonada,Dudas sobre el destino
+Joseph,39,Masculino,Bolivia,Tour Lago Titicaca,2024-02-01 20:58:00.188832,Completada,
+Alyssa,63,Femenino,Argentina,Fiesta de la Candelaria,2023-10-30 20:58:00.188832,Completada,
+Samantha,32,Femenino,Argentina,Turismo Aventura,2024-07-02 20:58:00.188832,Completada,
+Thomas,27,Masculino,Argentina,Turismo Aventura,2024-04-29 20:58:00.188832,Abandonada,Paquete muy caro
+Joseph,53,Masculino,Chile,Turismo Aventura,2024-09-26 20:58:00.188832,Completada,
+Troy,31,Femenino,Bolivia,Tour Lago Titicaca,2024-01-27 20:58:00.188832,Abandonada,Problema con el pago
+Michelle,29,Femenino,Perú,Turismo Cultural,2024-06-13 20:58:00.188832,Abandonada,Paquete muy caro
+Joshua,68,Masculino,Perú,Turismo Aventura,2024-07-02 20:58:00.188832,Abandonada,Problema con el pago
+Kelly,63,Femenino,Bolivia,Fiesta de la Candelaria,2023-12-31 20:58:00.188832,Completada,
+Peter,36,Femenino,Brasil,Turismo Cultural,2024-09-27 20:58:00.188832,Abandonada,Problema con el pago
+Justin,28,Masculino,Chile,Tour Lago Titicaca,2023-12-10 20:58:00.188832,Completada,
+Anna,22,Masculino,Bolivia,Fiesta de la Candelaria,2024-09-03 20:58:00.188832,Completada,
+Marissa,61,Femenino,Chile,Turismo Aventura,2023-11-25 20:58:00.188832,Completada,
+Emily,34,Masculino,Bolivia,Turismo Cultural,2024-03-13 20:58:00.188832,Completada,
+Christopher,23,Femenino,Perú,Turismo Aventura,2024-07-27 20:58:00.188832,Abandonada,Otro
+Carla,31,Masculino,Brasil,Fiesta de la Candelaria,2024-02-22 20:58:00.188832,Completada,
+Lisa,64,Femenino,Argentina,Turismo Aventura,2024-01-21 20:58:00.188832,Completada,
+Tasha,34,Femenino,Bolivia,Turismo Cultural,2024-05-07 20:58:00.188832,Abandonada,Paquete muy caro
+Lisa,47,Femenino,Bolivia,Turismo Cultural,2023-11-23 20:58:00.188832,Completada,
+Mary,25,Masculino,Bolivia,Tour Lago Titicaca,2024-07-31 20:58:00.188832,Abandonada,Paquete muy caro
+Joshua,44,Femenino,Bolivia,Turismo Aventura,2024-03-19 20:58:00.188832,Completada,
+Wendy,19,Femenino,Perú,Turismo Aventura,2024-07-03 20:58:00.188832,Completada,
+Cameron,67,Masculino,Perú,Fiesta de la Candelaria,2023-10-22 20:58:00.197037,Abandonada,Otro
+Kyle,45,Femenino,Chile,Turismo Aventura,2024-02-28 20:58:00.197189,Completada,
+John,20,Femenino,Chile,Turismo Aventura,2024-09-09 20:58:00.197189,Abandonada,Dudas sobre el destino
+Kathryn,26,Masculino,Argentina,Turismo Aventura,2024-06-15 20:58:00.198039,Abandonada,Dudas sobre el destino
+Michael,59,Masculino,Chile,Fiesta de la Candelaria,2024-06-21 20:58:00.198039,Completada,
+Wendy,61,Femenino,Bolivia,Fiesta de la Candelaria,2024-02-26 20:58:00.198039,Abandonada,Dudas sobre el destino
+Melissa,68,Masculino,Bolivia,Tour Lago Titicaca,2024-06-13 20:58:00.198039,Completada,
+Bryan,46,Femenino,Chile,Fiesta de la Candelaria,2024-07-18 20:58:00.199038,Abandonada,Paquete muy caro
+Chad,40,Masculino,Bolivia,Turismo Aventura,2024-05-07 20:58:00.199038,Abandonada,Paquete muy caro
+Ryan,18,Femenino,Argentina,Turismo Cultural,2024-08-15 20:58:00.199038,Completada,
+Crystal,35,Masculino,Argentina,Turismo Aventura,2024-08-14 20:58:00.199038,Abandonada,Problema con el pago
+Brian,68,Masculino,Bolivia,Fiesta de la Candelaria,2024-07-20 20:58:00.199038,Completada,
+Jacqueline,53,Femenino,Perú,Turismo Cultural,2024-04-20 20:58:00.199038,Abandonada,Dudas sobre el destino
+Patrick,64,Masculino,Chile,Turismo Cultural,2023-12-10 20:58:00.199038,Completada,
+Dakota,59,Femenino,Brasil,Turismo Aventura,2024-05-29 20:58:00.199038,Completada,
+James,34,Femenino,Bolivia,Turismo Aventura,2024-08-29 20:58:00.199038,Completada,
+Catherine,47,Masculino,Bolivia,Turismo Aventura,2024-05-12 20:58:00.199038,Abandonada,Dudas sobre el destino
+Matthew,32,Femenino,Brasil,Turismo Cultural,2024-05-02 20:58:00.199038,Completada,
+Edwin,56,Masculino,Brasil,Fiesta de la Candelaria,2024-10-13 20:58:00.199038,Abandonada,Paquete muy caro
+Derrick,31,Femenino,Chile,Fiesta de la Candelaria,2023-10-31 20:58:00.199038,Completada,
+Stephanie,65,Femenino,Argentina,Fiesta de la Candelaria,2023-12-15 20:58:00.199038,Abandonada,Dudas sobre el destino
+Shaun,51,Femenino,Argentina,Fiesta de la Candelaria,2024-03-09 20:58:00.199038,Completada,
+Jessica,61,Masculino,Brasil,Fiesta de la Candelaria,2024-07-01 20:58:00.199038,Completada,
+Stephanie,29,Masculino,Brasil,Turismo Cultural,2024-03-22 20:58:00.199038,Completada,
+Daniel,45,Masculino,Perú,Fiesta de la Candelaria,2023-12-04 20:58:00.199038,Completada,
+Aaron,29,Femenino,Bolivia,Fiesta de la Candelaria,2024-07-21 20:58:00.203128,Completada,
+Joseph,39,Femenino,Bolivia,Turismo Aventura,2024-03-14 20:58:00.203128,Completada,
+Darius,40,Masculino,Bolivia,Tour Lago Titicaca,2023-12-06 20:58:00.203128,Completada,
+Joshua,50,Masculino,Bolivia,Turismo Cultural,2024-05-22 20:58:00.203128,Completada,
+Briana,44,Femenino,Chile,Turismo Cultural,2023-10-29 20:58:00.204170,Completada,
+Gwendolyn,19,Masculino,Argentina,Tour Lago Titicaca,2024-06-19 20:58:00.204170,Abandonada,Dudas sobre el destino
+Stephanie,40,Masculino,Perú,Turismo Cultural,2024-07-05 20:58:00.204170,Completada,
+Dawn,64,Masculino,Brasil,Tour Lago Titicaca,2023-12-30 20:58:00.204170,Completada,
+Crystal,51,Masculino,Chile,Tour Lago Titicaca,2024-03-15 20:58:00.205199,Completada,
+Elizabeth,70,Masculino,Perú,Turismo Aventura,2024-10-14 20:58:00.205199,Completada,
+Courtney,33,Masculino,Perú,Tour Lago Titicaca,2024-02-22 20:58:00.205199,Completada,
+Erica,42,Masculino,Argentina,Fiesta de la Candelaria,2024-01-11 20:58:00.205199,Completada,
+Julie,19,Masculino,Bolivia,Tour Lago Titicaca,2024-04-11 20:58:00.206209,Abandonada,Problema con el pago
+Holly,21,Masculino,Chile,Turismo Aventura,2024-05-10 20:58:00.206454,Abandonada,Paquete muy caro
+Holly,61,Femenino,Argentina,Fiesta de la Candelaria,2023-12-27 20:58:00.206454,Abandonada,Problema con el pago
+Erin,18,Femenino,Brasil,Turismo Aventura,2024-10-06 20:58:00.206454,Completada,
+Traci,18,Masculino,Argentina,Turismo Cultural,2024-09-03 20:58:00.206454,Completada,
+Natalie,49,Masculino,Argentina,Fiesta de la Candelaria,2023-12-01 20:58:00.207464,Completada,
+Mikayla,23,Femenino,Chile,Fiesta de la Candelaria,2024-02-24 20:58:00.207464,Completada,
+Justin,43,Masculino,Brasil,Turismo Cultural,2024-09-17 20:58:00.207464,Completada,
+Sharon,47,Femenino,Brasil,Turismo Cultural,2024-08-03 20:58:00.207464,Completada,
+Edward,36,Masculino,Chile,Turismo Aventura,2023-10-21 20:58:00.208551,Abandonada,Dudas sobre el destino
+Shirley,55,Femenino,Bolivia,Turismo Aventura,2024-03-19 20:58:00.208551,Completada,
+Julia,36,Masculino,Argentina,Turismo Cultural,2023-10-20 20:58:00.208551,Completada,
+Anthony,65,Masculino,Argentina,Turismo Aventura,2024-01-23 20:58:00.208551,Completada,
+Hailey,63,Femenino,Argentina,Tour Lago Titicaca,2024-05-14 20:58:00.208551,Completada,
+Nicholas,57,Femenino,Chile,Fiesta de la Candelaria,2024-07-08 20:58:00.209610,Abandonada,Otro
+Dean,27,Femenino,Chile,Fiesta de la Candelaria,2024-04-17 20:58:00.209610,Completada,
+Amanda,33,Femenino,Chile,Turismo Aventura,2024-04-29 20:58:00.209610,Completada,
+Danielle,27,Masculino,Chile,Tour Lago Titicaca,2024-08-12 20:58:00.209610,Completada,
+Pamela,25,Femenino,Perú,Turismo Aventura,2024-06-08 20:58:00.209610,Completada,
+Diana,38,Femenino,Brasil,Tour Lago Titicaca,2024-06-12 20:58:00.209610,Completada,
+Tyler,41,Femenino,Brasil,Tour Lago Titicaca,2024-01-29 20:58:00.209610,Completada,
+Sean,40,Masculino,Argentina,Tour Lago Titicaca,2024-07-13 20:58:00.209610,Completada,
+Alexis,55,Femenino,Argentina,Fiesta de la Candelaria,2024-05-18 20:58:00.209610,Completada,
+Larry,33,Masculino,Argentina,Tour Lago Titicaca,2024-10-06 20:58:00.209610,Abandonada,Dudas sobre el destino
+Kimberly,25,Masculino,Bolivia,Turismo Aventura,2024-10-05 20:58:00.209610,Completada,
+Breanna,41,Femenino,Brasil,Turismo Aventura,2024-07-18 20:58:00.209610,Completada,
+Michael,43,Masculino,Perú,Turismo Aventura,2023-11-23 20:58:00.209610,Abandonada,Problema con el pago
+Charles,67,Masculino,Chile,Tour Lago Titicaca,2024-08-22 20:58:00.209610,Completada,
+Leslie,38,Masculino,Bolivia,Fiesta de la Candelaria,2023-12-19 20:58:00.209610,Completada,
+Nicholas,53,Femenino,Bolivia,Turismo Cultural,2024-09-12 20:58:00.209610,Completada,
+Justin,24,Femenino,Brasil,Turismo Aventura,2024-10-03 20:58:00.209610,Completada,
+Brandon,62,Femenino,Bolivia,Tour Lago Titicaca,2024-02-12 20:58:00.209610,Completada,
+John,51,Masculino,Chile,Turismo Cultural,2024-02-05 20:58:00.209610,Completada,
+Brett,30,Femenino,Argentina,Fiesta de la Candelaria,2024-09-16 20:58:00.214145,Abandonada,Otro
+Cynthia,65,Femenino,Brasil,Tour Lago Titicaca,2024-06-04 20:58:00.214145,Completada,
+Patricia,19,Femenino,Bolivia,Turismo Aventura,2024-03-13 20:58:00.214145,Abandonada,Otro
+Ashley,34,Femenino,Bolivia,Tour Lago Titicaca,2024-03-11 20:58:00.215157,Completada,
+Yolanda,50,Femenino,Perú,Turismo Aventura,2023-11-16 20:58:00.215157,Completada,
+Curtis,24,Masculino,Argentina,Fiesta de la Candelaria,2024-01-13 20:58:00.215157,Abandonada,Dudas sobre el destino
+Jeanette,45,Femenino,Bolivia,Tour Lago Titicaca,2024-01-28 20:58:00.215157,Completada,
+Ivan,35,Femenino,Argentina,Turismo Cultural,2024-06-28 20:58:00.215157,Completada,
+Anna,32,Masculino,Argentina,Turismo Aventura,2024-06-30 20:58:00.215157,Completada,
+Vicki,46,Masculino,Chile,Tour Lago Titicaca,2024-10-08 20:58:00.215157,Abandonada,Dudas sobre el destino
+David,42,Femenino,Brasil,Turismo Cultural,2024-01-12 20:58:00.215157,Completada,
+Ryan,58,Femenino,Brasil,Tour Lago Titicaca,2024-01-19 20:58:00.215157,Completada,
+Timothy,22,Femenino,Perú,Tour Lago Titicaca,2023-10-16 20:58:00.215157,Completada,
+Sherry,20,Femenino,Brasil,Turismo Cultural,2024-07-08 20:58:00.215157,Abandonada,Problema con el pago
+Brandon,51,Masculino,Chile,Tour Lago Titicaca,2024-03-18 20:58:00.215157,Completada,
+Pamela,21,Femenino,Chile,Fiesta de la Candelaria,2024-06-21 20:58:00.215157,Completada,
+Mark,55,Femenino,Argentina,Turismo Cultural,2024-08-05 20:58:00.215157,Completada,
+Sara,27,Femenino,Perú,Fiesta de la Candelaria,2024-08-07 20:58:00.215157,Completada,
+Samantha,51,Masculino,Argentina,Turismo Cultural,2023-12-08 20:58:00.215157,Abandonada,Paquete muy caro
+Joshua,24,Masculino,Perú,Turismo Aventura,2024-06-15 20:58:00.215157,Completada,
+Meagan,50,Masculino,Brasil,Turismo Aventura,2024-02-26 20:58:00.215157,Completada,
+Kevin,65,Masculino,Argentina,Tour Lago Titicaca,2024-03-26 20:58:00.215157,Completada,
+Jessica,34,Femenino,Argentina,Turismo Cultural,2024-08-18 20:58:00.215157,Completada,
+Sheryl,23,Femenino,Bolivia,Turismo Aventura,2024-03-20 20:58:00.215157,Abandonada,Dudas sobre el destino
+Sonya,24,Masculino,Bolivia,Fiesta de la Candelaria,2024-10-01 20:58:00.215157,Completada,
+Melissa,47,Masculino,Brasil,Tour Lago Titicaca,2024-04-06 20:58:00.215157,Completada,
+Allen,49,Femenino,Bolivia,Tour Lago Titicaca,2024-07-15 20:58:00.215157,Completada,
+Brandy,31,Femenino,Brasil,Tour Lago Titicaca,2023-11-20 20:58:00.215157,Abandonada,Paquete muy caro
+William,52,Masculino,Brasil,Tour Lago Titicaca,2024-02-20 20:58:00.215157,Abandonada,Dudas sobre el destino
+Sheila,60,Masculino,Perú,Fiesta de la Candelaria,2024-10-14 20:58:00.215157,Completada,
+Larry,41,Masculino,Perú,Tour Lago Titicaca,2024-03-09 20:58:00.215157,Completada,
+Kathleen,45,Masculino,Argentina,Fiesta de la Candelaria,2024-03-15 20:58:00.215157,Completada,
+Sherri,65,Masculino,Bolivia,Tour Lago Titicaca,2024-04-06 20:58:00.215157,Completada,
+Jeffrey,59,Masculino,Chile,Turismo Aventura,2024-06-17 20:58:00.215157,Completada,
+Daniel,64,Masculino,Brasil,Tour Lago Titicaca,2024-09-20 20:58:00.215157,Completada,
+Nancy,38,Femenino,Chile,Tour Lago Titicaca,2024-01-24 20:58:00.215157,Abandonada,Otro
+Julie,28,Femenino,Perú,Fiesta de la Candelaria,2024-03-21 20:58:00.215157,Completada,
+Nathaniel,48,Femenino,Brasil,Fiesta de la Candelaria,2024-03-07 20:58:00.215157,Completada,
+Jacob,26,Masculino,Perú,Turismo Cultural,2024-09-12 20:58:00.223359,Completada,
+Nicole,27,Femenino,Brasil,Turismo Aventura,2024-04-30 20:58:00.223359,Completada,
+Joel,22,Masculino,Argentina,Turismo Aventura,2023-12-28 20:58:00.223359,Completada,
