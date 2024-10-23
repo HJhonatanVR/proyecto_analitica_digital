@@ -1,12 +1,3 @@
-/*
-Template Name: StarCode & Dashboard Template
-Author: StarCode Kh
-Version: 1.1.0
-Website: https://StarCode Kh.in/
-Contact: StarCode Kh@gmail.com
-File: dashboard ecommerce init Js File
-*/
-
 // rgb to hex convert
 function rgbToHex(rgb) {
     // Extract RGB values using regular expressions
@@ -120,6 +111,10 @@ var chart = new ApexCharts(document.querySelector("#salesRevenueOverview"), opti
 chart.render();
 
 
+// Reservas Completadas vs Abandonadas
+
+
+
 //Order Statistics
 var options = {
     series: [{
@@ -161,42 +156,7 @@ var options = {
 var chart = new ApexCharts(document.querySelector("#orderStatisticsChart"), options);
 chart.render();
 
-//Traffic Resources Chart
-var options = {
-    series: [44, 34, 22],
-    chart: {
-        height: 222,
-        type: 'radialBar',
-    },
-    plotOptions: {
-        radialBar: {
-            dataLabels: {
-                total: {
-                    show: true,
-                    label: 'Total',
-                    formatter: function (w) {
-                        // By default this function returns the average of all series. The below is just an example to show the use of custom formatter function
-                        return 875
-                    }
-                }
-            }
-        }
-    },
-    grid: {
-        show: true,
-        padding: {
-            top: -8,
-            bottom: -15,
-            left: 0,
-            right: 0,
-        }
-    },
-    colors: getChartColorsArray("trafficResourcesChart"),
-    labels: ['Direct', 'Referrals', 'Search Engine'],
-};
 
-var chart = new ApexCharts(document.querySelector("#trafficResourcesChart"), options);
-chart.render();
 
 //Sales This Month Chart
 var options = {
@@ -445,3 +405,4 @@ var options = {
 
 var chart = new ApexCharts(document.querySelector("#audienceChart"), options);
 chart.render();
+

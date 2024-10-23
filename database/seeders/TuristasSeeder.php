@@ -3,28 +3,35 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
-use DB;
-use League\Csv\Reader; // Para manejar CSV
+use Illuminate\Support\Facades\DB;
+use Faker\Factory as Faker;
 
 class TuristasSeeder extends Seeder
 {
     public function run()
     {
-        // Ruta al archivo CSV
-        $csvFile = base_path('datos_demograficos_turistas.csv');
+        $faker = Faker::create();
         
-        // Leer el CSV
-        $csv = Reader::createFromPath($csvFile, 'r');
-        $csv->setHeaderOffset(0); // Para usar el encabezado como keys
+        // Lista de países de América Latina, Europa y Estados Unidos
+        $paises = [
+            // América Latina
+            'Argentina', 'Bolivia', 'Brasil', 'Chile', 'Colombia', 'Costa Rica', 'Cuba', 'Ecuador', 'El Salvador', 
+            'Guatemala', 'Honduras', 'México', 'Nicaragua', 'Panamá', 'Paraguay', 'Perú', 'Uruguay', 'Venezuela',
+            // Europa
+            'Alemania', 'Francia', 'España', 'Italia', 'Reino Unido', 'Países Bajos', 'Portugal', 'Suiza', 'Bélgica',
+            'Dinamarca', 'Noruega', 'Suecia', 'Finlandia', 'Austria', 'Grecia', 'Polonia', 'Irlanda', 'Hungría', 
+            'Rusia', 'Rumanía',
+            // Estados Unidos
+            'Estados Unidos'
+        ];
 
-        // Insertar cada fila en la base de datos
-        foreach ($csv as $record) {
+        foreach (range(1, 1000) as $index) {
             DB::table('turistas')->insert([
-                'nombre' => $record['nombre'],
-                'edad' => $record['edad'],
-                'genero' => $record['genero'],
-                'pais_origen' => $record['pais_origen'],
-                'interes_turistico' => $record['interes_turistico'],
+                'nombre' => $faker->unique()->name,
+                'edad' => $faker->numberBetween(18, 80),
+                'genero' => $faker->randomElement(['Masculino', 'Femenino', 'Otro']),
+                'pais_origen' => $faker->randomElement($paises), // Selección de un país de la lista
+                'interes_turistico' => $faker->randomElement(['Lago Titicaca', 'Fiesta de la Candelaria', 'Turismo Cultural', 'Puno', 'Aventura']),
             ]);
         }
     }

@@ -65,4 +65,13 @@ Route::group(['namespace' => 'App\Http\Controllers'],function()
     });
 });
 
+Route::get('/campanas', [CampanaController::class, 'index']);
+
+
+Route::get('/tendencias', function () {
+    return view('tendencias');
+});
+
+
+
 
